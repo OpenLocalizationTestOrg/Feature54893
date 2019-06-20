@@ -1,0 +1,89 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="accessibility.md" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-d0fd20f" tool-company="Microsoft" /><xliffext:skl_file_name xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0db90ab9-9cdd-49dc-bb91-3f7f321d745e361be1ef1a4a6c25c5e5fc4a8904eba65b75465c.skl</xliffext:skl_file_name><xliffext:version xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1.2</xliffext:version><xliffext:ms.openlocfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">361be1ef1a4a6c25c5e5fc4a8904eba65b75465c</xliffext:ms.openlocfilehash><xliffext:ms.sourcegitcommit xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0db90ab9-9cdd-49dc-bb91-3f7f321d745e</xliffext:ms.sourcegitcommit><xliffext:ms.lasthandoff xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">06/20/2019</xliffext:ms.lasthandoff><xliffext:ms.openlocfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">source_Dynamics\accessibility.md</xliffext:ms.openlocfilepath></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Accessibility for Market Insights | Microsoft Docs</source>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Learn about accessibility features in general and specifically in Market Insights.</source>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>ease of access, accessibility, a11y, screen reader, color patterns</source>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Accessibility for <ph id="ph1">[!INCLUDE[Dynamics 365 Market Insights](../includes/pn-market-insights-long.md)]</ph></source>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>(This topic is pre-release documentation and is subject to change.)</source>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Microsoft is committed to building software that enables people with different abilities<ept id="p1">](https://go.microsoft.com/fwlink/p/?LinkId=526256)</ept> to be productive.</source>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!INCLUDE[Dynamics 365 Market Insights](../includes/pn-market-insights-long.md)]</ph> enables all users to be productive by providing accessible software that can be used effortlessly, regardless of abilities.</source>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Accessibility capabilities built into <ph id="ph1">[!INCLUDE[Market Insights](../includes/pn-market-insights-short.md)]</ph></source>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Work with a screen reader</source>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Commonly used screen readers are supported, empowering the blind, visually impaired, or people with learning disabilities.</source>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Learn more about working with Microsoft Narrator<ept id="p1">](https://support.microsoft.com/help/22798)</ept></source>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Learn more about working with JAWS<ept id="p1">](http://www.freedomscientific.com/Products/Blindness/JawsDocumentation)</ept></source>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Learn more about working with NVDA<ept id="p1">](https://www.nvaccess.org/get-help/)</ept></source>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Use the keyboard to navigate the user interface</source>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Full keyboard accessibility for all user interface elements to empower agents with different motor skills, and to help agents save critical seconds by removing the dependency on a mouse.</source>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!INCLUDE[Market Insights](../includes/pn-market-insights-short.md)]</ph> supports basic keyboard navigation patterns, like switching between elements and selecting them.</source>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>There are no keyboard shortcuts specific to <ph id="ph1">[!INCLUDE[Market Insights](../includes/pn-market-insights-short.md)]</ph>.</source>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>All tables in <ph id="ph1">[!INCLUDE[Market Insights](../includes/pn-market-insights-short.md)]</ph> follow the same keyboard access pattern:</source>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>A table has only one tab stop.</source>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Each table row can have several cells.</source>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>To move within a row, use the left and right arrow keys.</source>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>To move to the next row, use the up and down arrow keys.</source>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Focus will move the same cell type in the next row.</source>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>If a cell contains a single control, the focus will move to the control.</source>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Simply activate the control to interact with it.</source>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Example: �gRemove�h control to remove the item of that row.</source>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>If a cell contains content and/or several controls, the focus is set to the cell border.</source>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>To interact with the elements inside this cell select the Enter or F2 key to move focus into the cell.</source>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>In this mode, you can interact with each element in this cell including activating controls by using the arrow keys to move focus.</source>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>To leave a cell, select the Escape or F2 key to move the focus back onto the cell border.</source>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Heighten color contrast of some text and images</source>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>The high contrast setting in Windows heightens the color contrast of some text and images on your computer screen, making those items more distinct and easier to identify.</source>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>You�fll find this setting on the Ease of Access page in <bpt id="p1">[</bpt>Windows 10<ept id="p1">](http://www.microsoft.com/enable/products/windows10/default.aspx)</ept>, <bpt id="p2">[</bpt>Windows 8<ept id="p2">](http://www.microsoft.com/enable/products/windows8/default.aspx)</ept>, and <bpt id="p3">[</bpt>Windows 7<ept id="p3">](http://www.microsoft.com/enable/products/windows7/default.aspx)</ept>.</source>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Enlarge the user interface with zooming in the browser</source>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!INCLUDE[Market Insights](../includes/pn-market-insights-short.md)]</ph> supports zooming on the user interface to 200 percent of the original screen size and works with the high contrast settings in either your browser or operating system.</source>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>When zooming the user interface to 200 percent, some fields or controls are hidden to keep it readable.</source>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>We aim only to hide information and controls that aren't required to complete a task.</source>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>You can change the zoom level to access these controls.</source>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>For accessibility information for specific browsers, visit the following websites:</source>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Microsoft Edge accessibility<ept id="p1">](https://docs.microsoft.com/microsoft-edge/accessibility)</ept></source>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Firefox accessibility features<ept id="p1">](http://support.mozilla.org/kb/accessibility-features-firefox-make-firefox-and-we?redirectlocale=en-US&amp;redirectslug=accessibility)</ept></source>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Safari accessibility features<ept id="p1">](http://www.apple.com/support/accessibility/)</ept></source>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Google Chrome accessibility features<ept id="p1">](https://sites.google.com/a/chromium.org/dev/user-experience)</ept></source>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>For more information on detailed accessibility features built into Microsoft products, refer to <bpt id="p1">[</bpt>Section 508 VPATs for Microsoft products<ept id="p1">](https://enterprise.microsoft.com/en-us/industries/government/section-508-vpats-for-microsoft-products/)</ept>.</source>
+        </trans-unit></group></body></file></xliff>
