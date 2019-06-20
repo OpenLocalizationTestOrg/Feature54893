@@ -1,5 +1,5 @@
 <?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="tutrial.md" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-d0fd20f" tool-company="Microsoft" /><xliffext:skl_file_name xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9f1607da-0fe3-4231-aeb2-bb6ea6678dc3fc4287c4055cb57a5db02c10990122d4ddebaf6d.skl</xliffext:skl_file_name><xliffext:version xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1.2</xliffext:version><xliffext:ms.openlocfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">fc4287c4055cb57a5db02c10990122d4ddebaf6d</xliffext:ms.openlocfilehash><xliffext:ms.sourcegitcommit xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9f1607da-0fe3-4231-aeb2-bb6ea6678dc3</xliffext:ms.sourcegitcommit><xliffext:ms.lasthandoff xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">06/20/2019</xliffext:ms.lasthandoff><xliffext:ms.openlocfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">source\tutrial.md</xliffext:ms.openlocfilepath></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
-          <source>Introduction to editing in the code editor</source>
+          <source>まずはじめにIntroduction to editing in the code editor</source>
         </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
           <source>Learn to use the code editor</source>
         </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
@@ -183,5 +183,5 @@
         </trans-unit><trans-unit id="192" translate="yes" xml:space="preserve">
           <source>Refactoring</source>
         </trans-unit><trans-unit id="193" translate="yes" xml:space="preserve">
-          <source>Use IntelliSense</source>
+          <source>インテリセンスを使うべしUse IntelliSense</source>
         </trans-unit></group></body></file></xliff>
