@@ -7,7 +7,7 @@
         </trans-unit><group id="paragraph-101" merged-trans="yes"><trans-unit id="p101" translate="no" xml:space="preserve">
             <source>Permissions inheritance means that the permission settings of an element in a site collection are passed on to the children of that element. In this way, sites inherit permissions from the root site of the site collection, libraries inherit from the site that contains the library, and so on. Permission inheritance enables you to make a permission assignment once, and have that permission apply to all sites, lists, libraries, folders and items that inherit permissions. This behavior can reduce complexity and the amount of time Administrators and Site Owners spend on security management.</source>
           </trans-unit><group id="sentence-101"><trans-unit id="104" translate="yes" xml:space="preserve">
-              <source>Permissions inheritance means that the permission settings of an element in a site collection are passed on to the children of that element.</source>
+              <source>権利の継承とはPermissions inheritance means that the permission settings of an element in a site collection are passed on to the children of that element.</source>
             </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
               <source>In this way, sites inherit permissions from the root site of the site collection, libraries inherit from the site that contains the library, and so on.</source>
             </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
