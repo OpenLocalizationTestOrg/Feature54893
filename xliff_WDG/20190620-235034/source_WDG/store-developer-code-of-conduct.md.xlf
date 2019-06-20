@@ -1,0 +1,39 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="store-developer-code-of-conduct.md" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-d0fd20f" tool-company="Microsoft" /><xliffext:skl_file_name xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">edd59189-7392-4539-8a5f-f253cbcbed0bdcca8cea0740755d60458c81304fcca8d17f4959.skl</xliffext:skl_file_name><xliffext:version xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1.2</xliffext:version><xliffext:ms.openlocfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dcca8cea0740755d60458c81304fcca8d17f4959</xliffext:ms.openlocfilehash><xliffext:ms.sourcegitcommit xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">edd59189-7392-4539-8a5f-f253cbcbed0b</xliffext:ms.sourcegitcommit><xliffext:ms.lasthandoff xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">06/20/2019</xliffext:ms.lasthandoff><xliffext:ms.openlocfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">source_WDG\store-developer-code-of-conduct.md</xliffext:ms.openlocfilepath></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Developer Code of Conduct</source>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>As a developer of applications for the Microsoft Store, you are bound by the terms of the App Developer Agreement and any other licenses or contracts between you and Microsoft.</source>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>store policies agreement</source>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Developer Code of Conduct</source>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>As a developer of applications for the Microsoft Store, you are bound by the terms of the <bpt id="p1">[</bpt>App Developer Agreement<ept id="p1">](app-developer-agreement.md)</ept> and any other licenses or contracts between you and Microsoft.</source>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>This Code of Conduct is provided for your information and does not replace any agreement.</source>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>1. Publisher Name</source>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Your publisher name must be unique.</source>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>You should not represent your account to be from a company, government body, or other entity if you do not have permission to make that representation.</source>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>This includes, but is not limited to, using publisher names that are misleading, or similar to the names of well-known entities.</source>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>2. Store Account in Good Standing</source>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Your Store developer account must remain in good standing.</source>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>This includes, but is not limited to, providing Microsoft with accurate and current information, not violating our policies or the App Developer Agreement, and staying active in the Store.</source>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>3. Fraudulent or Dishonest Activities</source>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>You may not engage in any fraudulent or dishonest activities in the Store or Partner Center.</source>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>This includes, but is not limited to, attempting to manipulate the ranking, search results, ratings or reviews for your app or any other app; interfering with any other party�fs use of the Store service (or any related services offered by Microsoft); attempting any form of financial fraud (including, but not limited to any advertising impression or click fraud); engaging in any fraudulent activity with regard to the advertising inventory and advertising creative in your application; or obtaining or attempting to obtain unauthorized access to personal information, whether by direct or indirect means, and any use of such information.</source>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>See also</source>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Microsoft Store Policies and Code of Conduct</source>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>App Developer Agreement</source>
+        </trans-unit></group></body></file></xliff>
