@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="utf-8"?><xliff xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" srcLang="en-US" trgLang="en-US" version="2.0" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+	<file id="1">
+		<mda:metadata>
+			<mda:metaGroup>
+				<mda:meta type="tool-id">mdxliff</mda:meta>
+				<mda:meta type="tool-name">mdxliff</mda:meta>
+				<mda:meta type="tool-version">1.0-d0fd20f</mda:meta>
+				<mda:meta type="tool-company">Microsoft</mda:meta>
+			</mda:metaGroup>
+		<mda:metaGroup><mda:meta type="skl_file_name">a0ce001f-a03f-4fd0-a5c7-c5b86847fc890f46b1561f2d96e8ba290e2cb328fba46d2de11f.skl</mda:meta><mda:meta type="version">2.0</mda:meta><mda:meta type="ms.openlocfilehash">0f46b1561f2d96e8ba290e2cb328fba46d2de11f</mda:meta><mda:meta type="ms.sourcegitcommit">a0ce001f-a03f-4fd0-a5c7-c5b86847fc89</mda:meta><mda:meta type="ms.lasthandoff">06/20/2019</mda:meta><mda:meta type="moniker_ids"></mda:meta><mda:meta type="ms.openlocfilepath">source\toc.yml</mda:meta></mda:metaGroup></mda:metadata>
+		<group id="content">
+			<unit id="101" translate="yes">
+				<segment state="initial">
+					<source>Azure AD B2C Documentation</source>
+				</segment>
+			</unit>
+			<unit id="102" translate="yes">
+				<segment state="initial">
+					<source>Overview</source>
+				</segment>
+			</unit>
+			<unit id="103" translate="yes">
+				<segment state="initial">
+					<source>About Azure AD B2C</source>
+				</segment>
+			</unit>
+			<unit id="104" translate="yes">
+				<segment state="initial">
+					<source>Quickstarts</source>
+				</segment>
+			</unit>
+			<unit id="105" translate="yes">
+				<segment state="initial">
+					<source>Set up sign-in - ASP.NET</source>
+				</segment>
+			</unit>
+			<unit id="106" translate="yes">
+				<segment state="initial">
+					<source>Set up sign-in - Desktop</source>
+				</segment>
+			</unit>
+			<unit id="107" translate="yes">
+				<segment state="initial">
+					<source>Set up sign-in - Single page</source>
+				</segment>
+			</unit>
+			<unit id="108" translate="yes">
+				<segment state="initial">
+					<source>Tutorials</source>
+				</segment>
+			</unit>
+			<unit id="109" translate="yes">
+				<segment state="initial">
+					<source>1 - Create B2C tenant</source>
+				</segment>
+			</unit>
+			<unit id="110" translate="yes">
+				<segment state="initial">
+					<source>2 - Register an application</source>
+				</segment>
+			</unit>
+			<unit id="111" translate="yes">
+				<segment state="initial">
+					<source>3 - Create user flows</source>
+				</segment>
+			</unit>
+			<unit id="112" translate="yes">
+				<segment state="initial">
+					<source>Add identity providers</source>
+				</segment>
+			</unit>
+			<unit id="113" translate="yes">
+				<segment state="initial">
+					<source>Customize the UI</source>
+				</segment>
+			</unit>
+			<unit id="114" translate="yes">
+				<segment state="initial">
+					<source>Authenticate accounts</source>
+				</segment>
+			</unit>
+			<unit id="115" translate="yes">
+				<segment state="initial">
+					<source>ASP.NET</source>
+				</segment>
+			</unit>
+			<unit id="116" translate="yes">
+				<segment state="initial">
+					<source>Desktop</source>
+				</segment>
+			</unit>
+			<unit id="117" translate="yes">
+				<segment state="initial">
+					<source>Single page</source>
+				</segment>
+			</unit>
+			<unit id="118" translate="yes">
+				<segment state="initial">
+					<source>Grant API access</source>
+				</segment>
+			</unit>
+			<unit id="119" translate="yes">
+				<segment state="initial">
+					<source>ASP.NET</source>
+				</segment>
+			</unit>
+			<unit id="120" translate="yes">
+				<segment state="initial">
+					<source>Desktop</source>
+				</segment>
+			</unit>
+			<unit id="121" translate="yes">
+				<segment state="initial">
+					<source>Single page</source>
+				</segment>
+			</unit>
+			<unit id="122" translate="yes">
+				<segment state="initial">
+					<source>Samples</source>
+				</segment>
+			</unit>
+			<unit id="123" translate="yes">
+				<segment state="initial">
+					<source>Concepts</source>
+				</segment>
+			</unit>
+			<unit id="124" translate="yes">
+				<segment state="initial">
+					<source>Applications types</source>
+				</segment>
+			</unit>
+			<unit id="125" translate="yes">
+				<segment state="initial">
+					<source>Authentication protocols</source>
+				</segment>
+			</unit>
+			<unit id="126" translate="yes">
+				<segment state="initial">
+					<source>Identity Experience Framework</source>
+				</segment>
+			</unit>
+			<unit id="127" translate="yes">
+				<segment state="initial">
+					<source>Custom policies</source>
+				</segment>
+			</unit>
+			<unit id="128" translate="yes">
+				<segment state="initial">
+					<source>User access</source>
+				</segment>
+			</unit>
+			<unit id="129" translate="yes">
+				<segment state="initial">
+					<source>JavaScript and page contracts</source>
+				</segment>
+			</unit>
+			<unit id="130" translate="yes">
+				<segment state="initial">
+					<source>OAuth 2.0</source>
+				</segment>
+			</unit>
+			<unit id="131" translate="yes">
+				<segment state="initial">
+					<source>OpenId Connect</source>
+				</segment>
+			</unit>
+			<unit id="132" translate="yes">
+				<segment state="initial">
+					<source>Single-page sign-in</source>
+				</segment>
+			</unit>
+			<unit id="133" translate="yes">
+				<segment state="initial">
+					<source>Tokens</source>
+				</segment>
+			</unit>
+			<unit id="134" translate="yes">
+				<segment state="initial">
+					<source>User accounts</source>
+				</segment>
+			</unit>
+			<unit id="135" translate="yes">
+				<segment state="initial">
+					<source>User data</source>
+				</segment>
+			</unit>
+			<unit id="136" translate="yes">
+				<segment state="initial">
+					<source>User flows</source>
+				</segment>
+			</unit>
+			<unit id="137" translate="yes">
+				<segment state="initial">
+					<source>User interface customization</source>
+				</segment>
+			</unit>
+			<unit id="138" translate="yes">
+				<segment state="initial">
+					<source>How-to guides</source>
+				</segment>
+			</unit>
+			<unit id="139" translate="yes">
+				<segment state="initial">
+					<source>Access audit logs</source>
+				</segment>
+			</unit>
+			<unit id="140" translate="yes">
+				<segment state="initial">
+					<source>Add a web API application</source>
+				</segment>
+			</unit>
+			<unit id="141" translate="yes">
+				<segment state="initial">
+					<source>Add a native client application</source>
+				</segment>
+			</unit>
+			<unit id="142" translate="yes">
+				<segment state="initial">
+					<source>Configure age gating</source>
+				</segment>
+			</unit>
+			<unit id="143" translate="yes">
+				<segment state="initial">
+					<source>Configure session behavior</source>
+				</segment>
+			</unit>
+			<unit id="144" translate="yes">
+				<segment state="initial">
+					<source>Customize language</source>
+				</segment>
+			</unit>
+			<unit id="145" translate="yes">
+				<segment state="initial">
+					<source>Customize password</source>
+				</segment>
+			</unit>
+			<unit id="146" translate="yes">
+				<segment state="initial">
+					<source>Define custom attributes</source>
+				</segment>
+			</unit>
+			<unit id="147" translate="yes">
+				<segment state="initial">
+					<source>Disable email verification</source>
+				</segment>
+			</unit>
+			<unit id="148" translate="yes">
+				<segment state="initial">
+					<source>Enable MFA</source>
+				</segment>
+			</unit>
+			<unit id="149" translate="yes">
+				<segment state="initial">
+					<source>Identity Experience Framework</source>
+				</segment>
+			</unit>
+			<unit id="150" translate="yes">
+				<segment state="initial">
+					<source>Collect logs using Application Insights</source>
+				</segment>
+			</unit>
+			<unit id="151" translate="yes">
+				<segment state="initial">
+					<source>Configure ROPC</source>
+				</segment>
+			</unit>
+			<unit id="152" translate="yes">
+				<segment state="initial">
+					<source>Configure user input</source>
+				</segment>
+			</unit>
+			<unit id="153" translate="yes">
+				<segment state="initial">
+					<source>Create a custom policy</source>
+				</segment>
+			</unit>
+			<unit id="154" translate="yes">
+				<segment state="initial">
+					<source>Customize the UI</source>
+				</segment>
+			</unit>
+			<unit id="155" translate="yes">
+				<segment state="initial">
+					<source>Customize the UI dynamically</source>
+				</segment>
+			</unit>
+			<unit id="156" translate="yes">
+				<segment state="initial">
+					<source>Define custom attributes</source>
+				</segment>
+			</unit>
+			<unit id="157" translate="yes">
+				<segment state="initial">
+					<source>Enable keep me signed in</source>
+				</segment>
+			</unit>
+			<unit id="158" translate="yes">
+				<segment state="initial">
+					<source>Integrate RESTful APIs</source>
+				</segment>
+			</unit>
+			<unit id="159" translate="yes">
+				<segment state="initial">
+					<source>Validate user input</source>
+				</segment>
+			</unit>
+			<unit id="160" translate="yes">
+				<segment state="initial">
+					<source>Obtain additional claims</source>
+				</segment>
+			</unit>
+			<unit id="161" translate="yes">
+				<segment state="initial">
+					<source>Add your own RESTful API</source>
+				</segment>
+			</unit>
+			<unit id="162" translate="yes">
+				<segment state="initial">
+					<source>Secure RESTful APIs with basic auth</source>
+				</segment>
+			</unit>
+			<unit id="163" translate="yes">
+				<segment state="initial">
+					<source>Secure RESTful APIs with certificate auth</source>
+				</segment>
+			</unit>
+			<unit id="164" translate="yes">
+				<segment state="initial">
+					<source>OIDC/OAUTH providers</source>
+				</segment>
+			</unit>
+			<unit id="165" translate="yes">
+				<segment state="initial">
+					<source>Amazon</source>
+				</segment>
+			</unit>
+			<unit id="166" translate="yes">
+				<segment state="initial">
+					<source>Azure AD (Single-Tenant)</source>
+				</segment>
+			</unit>
+			<unit id="167" translate="yes">
+				<segment state="initial">
+					<source>Azure AD (Multi-Tenant)</source>
+				</segment>
+			</unit>
+			<unit id="168" translate="yes">
+				<segment state="initial">
+					<source>Google</source>
+				</segment>
+			</unit>
+			<unit id="169" translate="yes">
+				<segment state="initial">
+					<source>LinkedIn</source>
+				</segment>
+			</unit>
+			<unit id="170" translate="yes">
+				<segment state="initial">
+					<source>Microsoft Account</source>
+				</segment>
+			</unit>
+			<unit id="171" translate="yes">
+				<segment state="initial">
+					<source>Twitter</source>
+				</segment>
+			</unit>
+			<unit id="172" translate="yes">
+				<segment state="initial">
+					<source>Page contract</source>
+				</segment>
+			</unit>
+			<unit id="173" translate="yes">
+				<segment state="initial">
+					<source>Password complexity</source>
+				</segment>
+			</unit>
+			<unit id="174" translate="yes">
+				<segment state="initial">
+					<source>Password change</source>
+				</segment>
+			</unit>
+			<unit id="175" translate="yes">
+				<segment state="initial">
+					<source>SAML providers</source>
+				</segment>
+			</unit>
+			<unit id="176" translate="yes">
+				<segment state="initial">
+					<source>ADFS</source>
+				</segment>
+			</unit>
+			<unit id="177" translate="yes">
+				<segment state="initial">
+					<source>Salesforce</source>
+				</segment>
+			</unit>
+			<unit id="178" translate="yes">
+				<segment state="initial">
+					<source>Tokens</source>
+				</segment>
+			</unit>
+			<unit id="179" translate="yes">
+				<segment state="initial">
+					<source>Customize tokens</source>
+				</segment>
+			</unit>
+			<unit id="180" translate="yes">
+				<segment state="initial">
+					<source>Pass through access token</source>
+				</segment>
+			</unit>
+			<unit id="181" translate="yes">
+				<segment state="initial">
+					<source>Track user behavior</source>
+				</segment>
+			</unit>
+			<unit id="182" translate="yes">
+				<segment state="initial">
+					<source>Reference</source>
+				</segment>
+			</unit>
+			<unit id="183" translate="yes">
+				<segment state="initial">
+					<source>Claim resolvers</source>
+				</segment>
+			</unit>
+			<unit id="184" translate="yes">
+				<segment state="initial">
+					<source>Identity Experience Framework schema</source>
+				</segment>
+			</unit>
+			<unit id="185" translate="yes">
+				<segment state="initial">
+					<source>TrustFrameworkPolicy</source>
+				</segment>
+			</unit>
+			<unit id="186" translate="yes">
+				<segment state="initial">
+					<source>BuildingBlocks</source>
+				</segment>
+			</unit>
+			<unit id="187" translate="yes">
+				<segment state="initial">
+					<source>ClaimsSchema</source>
+				</segment>
+			</unit>
+			<unit id="188" translate="yes">
+				<segment state="initial">
+					<source>ClaimsTransformations</source>
+				</segment>
+			</unit>
+			<unit id="189" translate="yes">
+				<segment state="initial">
+					<source>Boolean</source>
+				</segment>
+			</unit>
+			<unit id="190" translate="yes">
+				<segment state="initial">
+					<source>Date</source>
+				</segment>
+			</unit>
+			<unit id="191" translate="yes">
+				<segment state="initial">
+					<source>General</source>
+				</segment>
+			</unit>
+			<unit id="192" translate="yes">
+				<segment state="initial">
+					<source>Integer</source>
+				</segment>
+			</unit>
+			<unit id="193" translate="yes">
+				<segment state="initial">
+					<source>JSON</source>
+				</segment>
+			</unit>
+			<unit id="194" translate="yes">
+				<segment state="initial">
+					<source>Social accounts</source>
+				</segment>
+			</unit>
+			<unit id="195" translate="yes">
+				<segment state="initial">
+					<source>StringCollection</source>
+				</segment>
+			</unit>
+			<unit id="196" translate="yes">
+				<segment state="initial">
+					<source>String</source>
+				</segment>
+			</unit>
+			<unit id="197" translate="yes">
+				<segment state="initial">
+					<source>Predicates</source>
+				</segment>
+			</unit>
+			<unit id="198" translate="yes">
+				<segment state="initial">
+					<source>ContentDefinitions</source>
+				</segment>
+			</unit>
+			<unit id="199" translate="yes">
+				<segment state="initial">
+					<source>Localization</source>
+				</segment>
+			</unit>
+			<unit id="200" translate="yes">
+				<segment state="initial">
+					<source>Localization string Ids</source>
+				</segment>
+			</unit>
+			<unit id="201" translate="yes">
+				<segment state="initial">
+					<source>ClaimsProviders</source>
+				</segment>
+			</unit>
+			<unit id="202" translate="yes">
+				<segment state="initial">
+					<source>TechnicalProfiles</source>
+				</segment>
+			</unit>
+			<unit id="203" translate="yes">
+				<segment state="initial">
+					<source>About technical profiles</source>
+				</segment>
+			</unit>
+			<unit id="204" translate="yes">
+				<segment state="initial">
+					<source>Azure Active Directory</source>
+				</segment>
+			</unit>
+			<unit id="205" translate="yes">
+				<segment state="initial">
+					<source>Claims transformation</source>
+				</segment>
+			</unit>
+			<unit id="206" translate="yes">
+				<segment state="initial">
+					<source>JWT token issuer</source>
+				</segment>
+			</unit>
+			<unit id="207" translate="yes">
+				<segment state="initial">
+					<source>OAuth1</source>
+				</segment>
+			</unit>
+			<unit id="208" translate="yes">
+				<segment state="initial">
+					<source>OAuth2</source>
+				</segment>
+			</unit>
+			<unit id="209" translate="yes">
+				<segment state="initial">
+					<source>OpenId Connect</source>
+				</segment>
+			</unit>
+			<unit id="210" translate="yes">
+				<segment state="initial">
+					<source>REST</source>
+				</segment>
+			</unit>
+			<unit id="211" translate="yes">
+				<segment state="initial">
+					<source>SAML</source>
+				</segment>
+			</unit>
+			<unit id="212" translate="yes">
+				<segment state="initial">
+					<source>Self-asserted</source>
+				</segment>
+			</unit>
+			<unit id="213" translate="yes">
+				<segment state="initial">
+					<source>SSO session</source>
+				</segment>
+			</unit>
+			<unit id="214" translate="yes">
+				<segment state="initial">
+					<source>Validation</source>
+				</segment>
+			</unit>
+			<unit id="215" translate="yes">
+				<segment state="initial">
+					<source>UserJourneys</source>
+				</segment>
+			</unit>
+			<unit id="216" translate="yes">
+				<segment state="initial">
+					<source>RelyingParty</source>
+				</segment>
+			</unit>
+			<unit id="217" translate="yes">
+				<segment state="initial">
+					<source>JavaScript samples</source>
+				</segment>
+			</unit>
+			<unit id="218" translate="yes">
+				<segment state="initial">
+					<source>Developer notes</source>
+				</segment>
+			</unit>
+			<unit id="219" translate="yes">
+				<segment state="initial">
+					<source>Trust Framework definition</source>
+				</segment>
+			</unit>
+			<unit id="220" translate="yes">
+				<segment state="initial">
+					<source>Identity providers</source>
+				</segment>
+			</unit>
+			<unit id="221" translate="yes">
+				<segment state="initial">
+					<source>Amazon</source>
+				</segment>
+			</unit>
+			<unit id="222" translate="yes">
+				<segment state="initial">
+					<source>Azure AD (Single Tenant)</source>
+				</segment>
+			</unit>
+			<unit id="223" translate="yes">
+				<segment state="initial">
+					<source>Microsoft Account</source>
+				</segment>
+			</unit>
+			<unit id="224" translate="yes">
+				<segment state="initial">
+					<source>Facebook</source>
+				</segment>
+			</unit>
+			<unit id="225" translate="yes">
+				<segment state="initial">
+					<source>GitHub</source>
+				</segment>
+			</unit>
+			<unit id="226" translate="yes">
+				<segment state="initial">
+					<source>Google</source>
+				</segment>
+			</unit>
+			<unit id="227" translate="yes">
+				<segment state="initial">
+					<source>LinkedIn</source>
+				</segment>
+			</unit>
+			<unit id="228" translate="yes">
+				<segment state="initial">
+					<source>OpenID Connect</source>
+				</segment>
+			</unit>
+			<unit id="229" translate="yes">
+				<segment state="initial">
+					<source>Twitter</source>
+				</segment>
+			</unit>
+			<unit id="230" translate="yes">
+				<segment state="initial">
+					<source>Migrate users</source>
+				</segment>
+			</unit>
+			<unit id="231" translate="yes">
+				<segment state="initial">
+					<source>Migrate users with social identities</source>
+				</segment>
+			</unit>
+			<unit id="232" translate="yes">
+				<segment state="initial">
+					<source>Mobile &amp; desktop apps</source>
+				</segment>
+			</unit>
+			<unit id="233" translate="yes">
+				<segment state="initial">
+					<source>iOS ObjC using App Auth</source>
+				</segment>
+			</unit>
+			<unit id="234" translate="yes">
+				<segment state="initial">
+					<source>Android using App Auth</source>
+				</segment>
+			</unit>
+			<unit id="235" translate="yes">
+				<segment state="initial">
+					<source>Report usage</source>
+				</segment>
+			</unit>
+			<unit id="236" translate="yes">
+				<segment state="initial">
+					<source>Resource owner password credentials</source>
+				</segment>
+			</unit>
+			<unit id="237" translate="yes">
+				<segment state="initial">
+					<source>Set up direct sign-in</source>
+				</segment>
+			</unit>
+			<unit id="238" translate="yes">
+				<segment state="initial">
+					<source>Set up self-serve-password reset</source>
+				</segment>
+			</unit>
+			<unit id="239" translate="yes">
+				<segment state="initial">
+					<source>Tokens</source>
+				</segment>
+			</unit>
+			<unit id="240" translate="yes">
+				<segment state="initial">
+					<source>Configure tokens</source>
+				</segment>
+			</unit>
+			<unit id="241" translate="yes">
+				<segment state="initial">
+					<source>Pass through access token</source>
+				</segment>
+			</unit>
+			<unit id="242" translate="yes">
+				<segment state="initial">
+					<source>Request access token</source>
+				</segment>
+			</unit>
+			<unit id="243" translate="yes">
+				<segment state="initial">
+					<source>Use b2clogin.com</source>
+				</segment>
+			</unit>
+			<unit id="244" translate="yes">
+				<segment state="initial">
+					<source>Use the Azure AD Graph API</source>
+				</segment>
+			</unit>
+			<unit id="245" translate="yes">
+				<segment state="initial">
+					<source>Reference</source>
+				</segment>
+			</unit>
+			<unit id="246" translate="yes">
+				<segment state="initial">
+					<source>Code samples</source>
+				</segment>
+			</unit>
+			<unit id="247" translate="yes">
+				<segment state="initial">
+					<source>Cookie definitions</source>
+				</segment>
+			</unit>
+			<unit id="248" translate="yes">
+				<segment state="initial">
+					<source>Region availability &amp; data residency</source>
+				</segment>
+			</unit>
+			<unit id="249" translate="yes">
+				<segment state="initial">
+					<source>Enable billing</source>
+				</segment>
+			</unit>
+			<unit id="250" translate="yes">
+				<segment state="initial">
+					<source>Threat management</source>
+				</segment>
+			</unit>
+			<unit id="251" translate="yes">
+				<segment state="initial">
+					<source>Extensions app</source>
+				</segment>
+			</unit>
+			<unit id="252" translate="yes">
+				<segment state="initial">
+					<source>User flow versions</source>
+				</segment>
+			</unit>
+			<unit id="253" translate="yes">
+				<segment state="initial">
+					<source>Resources</source>
+				</segment>
+			</unit>
+			<unit id="254" translate="yes">
+				<segment state="initial">
+					<source>Azure Roadmap</source>
+				</segment>
+			</unit>
+			<unit id="255" translate="yes">
+				<segment state="initial">
+					<source>Frequently asked questions</source>
+				</segment>
+			</unit>
+			<unit id="256" translate="yes">
+				<segment state="initial">
+					<source>Getting help</source>
+				</segment>
+			</unit>
+			<unit id="257" translate="yes">
+				<segment state="initial">
+					<source>Pricing</source>
+				</segment>
+			</unit>
+			<unit id="258" translate="yes">
+				<segment state="initial">
+					<source>Pricing calculator</source>
+				</segment>
+			</unit>
+			<unit id="259" translate="yes">
+				<segment state="initial">
+					<source>Service updates</source>
+				</segment>
+			</unit>
+			<unit id="260" translate="yes">
+				<segment state="initial">
+					<source>Solutions and training</source>
+				</segment>
+			</unit>
+			<unit id="261" translate="yes">
+				<segment state="initial">
+					<source>Stack Overflow</source>
+				</segment>
+			</unit>
+			<unit id="262" translate="yes">
+				<segment state="initial">
+					<source>Support</source>
+				</segment>
+			</unit>
+			<unit id="263" translate="yes">
+				<segment state="initial">
+					<source>Videos</source>
+				</segment>
+			</unit>
+		</group>
+	</file>
+</xliff>
