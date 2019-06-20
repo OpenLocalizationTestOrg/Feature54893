@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?><xliff xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" srcLang="en-US" trgLang="en-US" version="2.0" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+	<file id="1">
+		<mda:metadata>
+			<mda:metaGroup>
+				<mda:meta type="tool-id">mdxliff</mda:meta>
+				<mda:meta type="tool-name">mdxliff</mda:meta>
+				<mda:meta type="tool-version">1.0-d0fd20f</mda:meta>
+				<mda:meta type="tool-company">Microsoft</mda:meta>
+			</mda:metaGroup>
+		<mda:metaGroup><mda:meta type="skl_file_name">71f45ef6-c699-4de8-aa1d-bb9ec6e1945a3d2565014adfdf0e76edf5ff7aa394bb39d57b3c.skl</mda:meta><mda:meta type="version">2.0</mda:meta><mda:meta type="ms.openlocfilehash">3d2565014adfdf0e76edf5ff7aa394bb39d57b3c</mda:meta><mda:meta type="ms.sourcegitcommit">71f45ef6-c699-4de8-aa1d-bb9ec6e1945a</mda:meta><mda:meta type="ms.lasthandoff">06/20/2019</mda:meta><mda:meta type="moniker_ids"></mda:meta><mda:meta type="ms.openlocfilepath">source\about-microsoft-spy-increment.md</mda:meta></mda:metaGroup></mda:metadata>
+		<group id="content">
+			<unit id="101" translate="yes">
+				<segment state="initial">
+					<source>翻訳してみたAbout Microsoft Spy++ | Microsoft Docs</source>
+				</segment>
+			</unit>
+			<unit id="102" translate="yes">
+				<segment state="initial">
+					<source>テストAbout Microsoft Spy++</source>
+				</segment>
+			</unit>
+			<unit id="103" translate="yes">
+				<segment state="initial">
+					<source>日本語Use this dialog box to display copyright, version, ownership, and other information about Spy++.</source>
+				</segment>
+			</unit>
+		</group>
+	</file>
+</xliff>
