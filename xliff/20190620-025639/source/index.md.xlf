@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?><xliff xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" srcLang="en-US" trgLang="en-US" version="2.0" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+	<file id="1">
+		<mda:metadata>
+			<mda:metaGroup>
+				<mda:meta type="tool-id">mdxliff</mda:meta>
+				<mda:meta type="tool-name">mdxliff</mda:meta>
+				<mda:meta type="tool-version">1.0-d0fd20f</mda:meta>
+				<mda:meta type="tool-company">Microsoft</mda:meta>
+			</mda:metaGroup>
+		<mda:metaGroup><mda:meta type="skl_file_name">a0ce001f-a03f-4fd0-a5c7-c5b86847fc89c3a1f6f433a2d8baef9c90a1aa03ab5c302f4d3f.skl</mda:meta><mda:meta type="version">2.0</mda:meta><mda:meta type="ms.openlocfilehash">c3a1f6f433a2d8baef9c90a1aa03ab5c302f4d3f</mda:meta><mda:meta type="ms.sourcegitcommit">a0ce001f-a03f-4fd0-a5c7-c5b86847fc89</mda:meta><mda:meta type="ms.lasthandoff">06/20/2019</mda:meta><mda:meta type="moniker_ids"></mda:meta><mda:meta type="ms.openlocfilepath">source\index.md</mda:meta></mda:metaGroup></mda:metadata>
+		<group id="content">
+			<unit id="101" translate="yes">
+				<segment state="initial">
+					<source>Technical documentation, API, and code examples | Microsoft Docs</source>
+				</segment>
+			</unit>
+			<unit id="102" translate="yes">
+				<segment state="initial">
+					<source>Get the latest Microsoft documentation for end users, developers and IT professionals: API reference, code examples, technical documentation, and more.</source>
+				</segment>
+			</unit>
+			<unit id="103" translate="yes">
+				<segment state="initial">
+					<source>Introducing a new approach to learning</source>
+				</segment>
+			</unit>
+			<unit id="104" translate="yes">
+				<segment state="initial">
+					<source>Hands-on training that helps you advance your career and earn your spot at the top.</source>
+				</segment>
+			</unit>
+			<unit id="105" translate="yes">
+				<originalData>
+					<data id="id1">
+                    &lt;span&gt;</data>
+					<data id="id2">&lt;/span&gt;</data>
+					<data id="id3">
+                    &lt;span class="icon" aria-hidden="true"&gt;</data>
+					<data id="id4">
+                    &lt;/span&gt;</data>
+					<data id="id5">
+                        &lt;span class="docon docon-chevron-right-light"&gt;</data>
+					<data id="id6">&lt;/span&gt;</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Start learning</pc><pc dataRefEnd="id4" dataRefStart="id3" id="p2"><pc dataRefEnd="id6" dataRefStart="id5" id="p3"></pc></pc></source>
+				</segment>
+			</unit>
+			<unit id="106" translate="yes">
+				<segment state="initial">
+					<source>Microsoft Docs</source>
+				</segment>
+			</unit>
+			<unit id="107" translate="yes">
+				<segment state="initial">
+					<source>docs.microsoft.com is the home for Microsoft documentation for end users, developers, and IT professionals.</source>
+				</segment>
+			</unit>
+			<unit id="108" translate="yes">
+				<segment state="initial">
+					<source>Check out our quickstarts, tutorials, API reference, and code examples.</source>
+				</segment>
+			</unit>
+			<unit id="109" translate="yes">
+				<originalData>
+					<data id="id1">&lt;span class="chevron"&gt;</data>
+					<data id="id2">&lt;/span&gt;</data>
+				</originalData>
+				<segment state="initial">
+					<source>Docs directory <pc dataRefEnd="id2" dataRefStart="id1" id="p1"></pc></source>
+				</segment>
+			</unit>
+			<unit id="110" translate="yes">
+				<segment state="initial">
+					<source>Docs Directory</source>
+				</segment>
+			</unit>
+			<unit id="111" translate="yes">
+				<segment state="initial">
+					<source>.NET</source>
+				</segment>
+			</unit>
+			<unit id="112" translate="yes">
+				<segment state="initial">
+					<source>ASP.NET</source>
+				</segment>
+			</unit>
+			<unit id="113" translate="yes">
+				<segment state="initial">
+					<source>Azure</source>
+				</segment>
+			</unit>
+			<unit id="114" translate="yes">
+				<segment state="initial">
+					<source>Azure Bot Service</source>
+				</segment>
+			</unit>
+			<unit id="115" translate="yes">
+				<segment state="initial">
+					<source>Azure DevOps</source>
+				</segment>
+			</unit>
+			<unit id="116" translate="yes">
+				<segment state="initial">
+					<source>Azure IoT Central</source>
+				</segment>
+			</unit>
+			<unit id="117" translate="yes">
+				<segment state="initial">
+					<source>Bing Maps</source>
+				</segment>
+			</unit>
+			<unit id="118" translate="yes">
+				<segment state="initial">
+					<source>Biztalk Server</source>
+				</segment>
+			</unit>
+			<unit id="119" translate="yes">
+				<segment state="initial">
+					<source>C++</source>
+				</segment>
+			</unit>
+			<unit id="120" translate="yes">
+				<segment state="initial">
+					<source>C#</source>
+				</segment>
+			</unit>
+			<unit id="121" translate="yes">
+				<segment state="initial">
+					<source>Cognitive Toolkit (CNTK)</source>
+				</segment>
+			</unit>
+			<unit id="122" translate="yes">
+				<segment state="initial">
+					<source>Common Data Service</source>
+				</segment>
+			</unit>
+			<unit id="123" translate="yes">
+				<segment state="initial">
+					<source>Cortana Skills</source>
+				</segment>
+			</unit>
+			<unit id="124" translate="yes">
+				<segment state="initial">
+					<source>Dashboard Services</source>
+				</segment>
+			</unit>
+			<unit id="125" translate="yes">
+				<segment state="initial">
+					<source>Dynamics 365</source>
+				</segment>
+			</unit>
+			<unit id="126" translate="yes">
+				<segment state="initial">
+					<source>Enterprise Mobility + Security</source>
+				</segment>
+			</unit>
+			<unit id="127" translate="yes">
+				<segment state="initial">
+					<source>Entity Framework</source>
+				</segment>
+			</unit>
+			<unit id="128" translate="yes">
+				<segment state="initial">
+					<source>Exchange</source>
+				</segment>
+			</unit>
+			<unit id="129" translate="yes">
+				<segment state="initial">
+					<source>F#</source>
+				</segment>
+			</unit>
+			<unit id="130" translate="yes">
+				<segment state="initial">
+					<source>HealthBot</source>
+				</segment>
+			</unit>
+			<unit id="131" translate="yes">
+				<segment state="initial">
+					<source>HealthVault</source>
+				</segment>
+			</unit>
+			<unit id="132" translate="yes">
+				<segment state="initial">
+					<source>Intune</source>
+				</segment>
+			</unit>
+			<unit id="133" translate="yes">
+				<segment state="initial">
+					<source>Internet Information Services</source>
+				</segment>
+			</unit>
+			<unit id="134" translate="yes">
+				<segment state="initial">
+					<source>Microsoft Advertising</source>
+				</segment>
+			</unit>
+			<unit id="135" translate="yes">
+				<segment state="initial">
+					<source>Microsoft Kaizala</source>
+				</segment>
+			</unit>
+			<unit id="136" translate="yes">
+				<segment state="initial">
+					<source>Microsoft 365 Business</source>
+				</segment>
+			</unit>
+			<unit id="137" translate="yes">
+				<segment state="initial">
+					<source>Microsoft 365 Enterprise</source>
+				</segment>
+			</unit>
+			<unit id="138" translate="yes">
+				<segment state="initial">
+					<source>Microsoft Education</source>
+				</segment>
+			</unit>
+			<unit id="139" translate="yes">
+				<segment state="initial">
+					<source>Microsoft FastTrack</source>
+				</segment>
+			</unit>
+			<unit id="140" translate="yes">
+				<segment state="initial">
+					<source>Microsoft Flow</source>
+				</segment>
+			</unit>
+			<unit id="141" translate="yes">
+				<segment state="initial">
+					<source>Microsoft Forms Pro</source>
+				</segment>
+			</unit>
+			<unit id="142" translate="yes">
+				<segment state="initial">
+					<source>Microsoft Graph</source>
+				</segment>
+			</unit>
+			<unit id="143" translate="yes">
+				<segment state="initial">
+					<source>Microsoft HPC Pack 2016</source>
+				</segment>
+			</unit>
+			<unit id="144" translate="yes">
+				<segment state="initial">
+					<source>Microsoft Machine Learning Server</source>
+				</segment>
+			</unit>
+			<unit id="145" translate="yes">
+				<segment state="initial">
+					<source>Microsoft Managed Desktop</source>
+				</segment>
+			</unit>
+			<unit id="146" translate="yes">
+				<segment state="initial">
+					<source>Microsoft Quantum Development</source>
+				</segment>
+			</unit>
+			<unit id="147" translate="yes">
+				<segment state="initial">
+					<source>Microsoft Search</source>
+				</segment>
+			</unit>
+			<unit id="148" translate="yes">
+				<segment state="initial">
+					<source>Microsoft Security Response Center</source>
+				</segment>
+			</unit>
+			<unit id="149" translate="yes">
+				<segment state="initial">
+					<source>Microsoft Stream</source>
+				</segment>
+			</unit>
+			<unit id="150" translate="yes">
+				<segment state="initial">
+					<source>Microsoft Surface</source>
+				</segment>
+			</unit>
+			<unit id="151" translate="yes">
+				<segment state="initial">
+					<source>Microsoft Teams</source>
+				</segment>
+			</unit>
+			<unit id="152" translate="yes">
+				<segment state="initial">
+					<source>Microsoft Workplace Analytics and MyAnalytics</source>
+				</segment>
+			</unit>
+			<unit id="153" translate="yes">
+				<segment state="initial">
+					<source>ML.NET</source>
+				</segment>
+			</unit>
+			<unit id="154" translate="yes">
+				<segment state="initial">
+					<source>NuGet</source>
+				</segment>
+			</unit>
+			<unit id="155" translate="yes">
+				<segment state="initial">
+					<source>Office</source>
+				</segment>
+			</unit>
+			<unit id="156" translate="yes">
+				<segment state="initial">
+					<source>Office 365</source>
+				</segment>
+			</unit>
+			<unit id="157" translate="yes">
+				<segment state="initial">
+					<source>OneDrive</source>
+				</segment>
+			</unit>
+			<unit id="158" translate="yes">
+				<segment state="initial">
+					<source>Open Specifications</source>
+				</segment>
+			</unit>
+			<unit id="159" translate="yes">
+				<segment state="initial">
+					<source>PlayReady</source>
+				</segment>
+			</unit>
+			<unit id="160" translate="yes">
+				<segment state="initial">
+					<source>PowerApps</source>
+				</segment>
+			</unit>
+			<unit id="161" translate="yes">
+				<segment state="initial">
+					<source>Power BI</source>
+				</segment>
+			</unit>
+			<unit id="162" translate="yes">
+				<segment state="initial">
+					<source>Power Query</source>
+				</segment>
+			</unit>
+			<unit id="163" translate="yes">
+				<segment state="initial">
+					<source>PowerShell</source>
+				</segment>
+			</unit>
+			<unit id="164" translate="yes">
+				<segment state="initial">
+					<source>Project</source>
+				</segment>
+			</unit>
+			<unit id="165" translate="yes">
+				<segment state="initial">
+					<source>SharePoint</source>
+				</segment>
+			</unit>
+			<unit id="166" translate="yes">
+				<segment state="initial">
+					<source>Skype for Business</source>
+				</segment>
+			</unit>
+			<unit id="167" translate="yes">
+				<segment state="initial">
+					<source>SQL Server</source>
+				</segment>
+			</unit>
+			<unit id="168" translate="yes">
+				<segment state="initial">
+					<source>System Center</source>
+				</segment>
+			</unit>
+			<unit id="169" translate="yes">
+				<segment state="initial">
+					<source>System Center Configuration Manager</source>
+				</segment>
+			</unit>
+			<unit id="170" translate="yes">
+				<segment state="initial">
+					<source>Virtualization</source>
+				</segment>
+			</unit>
+			<unit id="171" translate="yes">
+				<segment state="initial">
+					<source>Visual Basic</source>
+				</segment>
+			</unit>
+			<unit id="172" translate="yes">
+				<segment state="initial">
+					<source>Visual Studio</source>
+				</segment>
+			</unit>
+			<unit id="173" translate="yes">
+				<segment state="initial">
+					<source>Visual Studio IDE</source>
+				</segment>
+			</unit>
+			<unit id="174" translate="yes">
+				<segment state="initial">
+					<source>Windows</source>
+				</segment>
+			</unit>
+			<unit id="175" translate="yes">
+				<segment state="initial">
+					<source>Xamarin</source>
+				</segment>
+			</unit>
+			<unit id="176" translate="yes">
+				<segment state="initial">
+					<source>Yammer</source>
+				</segment>
+			</unit>
+		</group>
+	</file>
+</xliff>

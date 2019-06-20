@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="utf-8"?><xliff xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" srcLang="en-US" trgLang="en-US" version="2.0" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+	<file id="1">
+		<mda:metadata>
+			<mda:metaGroup>
+				<mda:meta type="tool-id">mdxliff</mda:meta>
+				<mda:meta type="tool-name">mdxliff</mda:meta>
+				<mda:meta type="tool-version">1.0-d0fd20f</mda:meta>
+				<mda:meta type="tool-company">Microsoft</mda:meta>
+			</mda:metaGroup>
+		<mda:metaGroup><mda:meta type="skl_file_name">a0ce001f-a03f-4fd0-a5c7-c5b86847fc89fc4287c4055cb57a5db02c10990122d4ddebaf6d.skl</mda:meta><mda:meta type="version">2.0</mda:meta><mda:meta type="ms.openlocfilehash">fc4287c4055cb57a5db02c10990122d4ddebaf6d</mda:meta><mda:meta type="ms.sourcegitcommit">a0ce001f-a03f-4fd0-a5c7-c5b86847fc89</mda:meta><mda:meta type="ms.lasthandoff">06/20/2019</mda:meta><mda:meta type="moniker_ids"></mda:meta><mda:meta type="ms.openlocfilepath">source\tutrial.md</mda:meta></mda:metaGroup></mda:metadata>
+		<group id="content">
+			<unit id="101" translate="yes">
+				<segment state="initial">
+					<source>Introduction to editing in the code editor</source>
+				</segment>
+			</unit>
+			<unit id="102" translate="yes">
+				<segment state="initial">
+					<source>Learn to use the code editor</source>
+				</segment>
+			</unit>
+			<unit id="103" translate="yes">
+				<segment state="initial">
+					<source>In this 10-minute introduction to the code editor in Visual Studio, we'll add code to a file to look at some of the ways that Visual Studio makes writing, navigating, and understanding code easier.</source>
+				</segment>
+			</unit>
+			<unit id="104" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](https://visualstudio.microsoft.com/vs/older-downloads/?utm_medium=microsoft&amp;utm_source=docs.microsoft.com&amp;utm_campaign=vs+2017+download)</data>
+				</originalData>
+				<segment state="initial">
+					<source>If you haven't already installed Visual Studio, go to the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Visual Studio downloads</pc> page to install it for free.</source>
+				</segment>
+			</unit>
+			<unit id="105" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](https://visualstudio.microsoft.com/downloads/?utm_medium=microsoft&amp;utm_source=docs.microsoft.com&amp;utm_campaign=inline+link&amp;utm_content=download+vs2019)</data>
+				</originalData>
+				<segment state="initial">
+					<source>If you haven't already installed Visual Studio, go to the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Visual Studio downloads</pc> page to install it for free.</source>
+				</segment>
+			</unit>
+			<unit id="106" translate="yes">
+				<segment state="initial">
+					<source>This article assumes you're already familiar with a programming language.</source>
+				</segment>
+			</unit>
+			<unit id="107" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](../ide/quickstart-python.md)</data>
+					<data id="id3">[</data>
+					<data id="id4">](../get-started/csharp/tutorial-aspnet-core.md)</data>
+					<data id="id5">[</data>
+					<data id="id6">](../ide/quickstart-visual-basic-console.md)</data>
+					<data id="id7">[</data>
+					<data id="id8">](../ide/getting-started-with-cpp-in-visual-studio.md)</data>
+				</originalData>
+				<segment state="initial">
+					<source>If you aren't, we suggest you look at one of the programming quickstarts first, such as create a web app with <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Python</pc> or <pc dataRefEnd="id4" dataRefStart="id3" id="p2">C#</pc>, or create a console app with <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Visual Basic</pc> or <pc dataRefEnd="id8" dataRefStart="id7" id="p4">C++</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="108" translate="yes">
+				<segment state="initial">
+					<source>Create a new code file</source>
+				</segment>
+			</unit>
+			<unit id="109" translate="yes">
+				<segment state="initial">
+					<source>Start by creating a new file and adding some code to it.</source>
+				</segment>
+			</unit>
+			<unit id="110" translate="yes">
+				<segment state="initial">
+					<source>Open Visual Studio.</source>
+				</segment>
+			</unit>
+			<unit id="111" translate="yes">
+				<segment state="initial">
+					<source>Open Visual Studio.</source>
+				</segment>
+			</unit>
+			<unit id="112" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Press <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Esc</pc> or click <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Continue without code</pc> on the start window to open the development environment.</source>
+				</segment>
+			</unit>
+			<unit id="113" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+					<data id="id5"> &gt; </data>
+					<data id="id6">**</data>
+					<data id="id7">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>From the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">File</pc> menu on the menu bar, choose <pc dataRefEnd="id4" dataRefStart="id3" id="p2">New</pc><ph dataRef="id5" id="ph1" /><pc dataRefEnd="id7" dataRefStart="id6" id="p3">File</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="114" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+					<data id="id5">**</data>
+					<data id="id6">**</data>
+					<data id="id7">**</data>
+					<data id="id8">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>In the <pc dataRefEnd="id2" dataRefStart="id1" id="p1">New File</pc> dialog box, under the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">General</pc> category, choose <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Visual C# Class</pc>, and then choose <pc dataRefEnd="id8" dataRefStart="id7" id="p4">Open</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="115" translate="yes">
+				<segment state="initial">
+					<source>A new file opens in the editor with the skeleton of a C# class.</source>
+				</segment>
+			</unit>
+			<unit id="116" translate="yes">
+				<segment state="initial">
+					<source>(Notice that we don't have to create a full Visual Studio project to gain some of the benefits that the code editor offers; all you need is a code file!)</source>
+				</segment>
+			</unit>
+			<unit id="117" translate="yes">
+				<segment state="initial">
+					<source>C# code file in Visual Studio</source>
+				</segment>
+			</unit>
+			<unit id="118" translate="yes">
+				<segment state="initial">
+					<source>Use code snippets</source>
+				</segment>
+			</unit>
+			<unit id="119" translate="yes">
+				<originalData>
+					<data id="id1">*</data>
+					<data id="id2">*</data>
+				</originalData>
+				<segment state="initial">
+					<source>Visual Studio provides useful <pc dataRefEnd="id2" dataRefStart="id1" id="p1">code snippets</pc> that you can use to quickly and easily generate commonly used code blocks.</source>
+				</segment>
+			</unit>
+			<unit id="120" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](../ide/code-snippets.md)</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">Code snippets</pc> are available for different programming languages including C#, Visual Basic, and C++.</source>
+				</segment>
+			</unit>
+			<unit id="121" translate="yes">
+				<originalData>
+					<data id="id1">`void Main`</data>
+				</originalData>
+				<segment state="initial">
+					<source>Let's add the C# <ph dataRef="id1" id="ph1" /> snippet to our file.</source>
+				</segment>
+			</unit>
+			<unit id="122" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">`svm`</data>
+				</originalData>
+				<segment state="initial">
+					<source>Place your cursor just above the final closing brace <pc dataRefEnd="id2" dataRefStart="id1" id="p1">}</pc> in the file, and type the characters <ph dataRef="id3" id="ph1" />.</source>
+				</segment>
+			</unit>
+			<unit id="123" translate="yes">
+				<originalData>
+					<data id="id1">`svm`</data>
+					<data id="id2">`static void Main`</data>
+					<data id="id3">[</data>
+					<data id="id4">](/dotnet/csharp/programming-guide/main-and-command-args/)</data>
+				</originalData>
+				<segment state="initial">
+					<source>(<ph dataRef="id1" id="ph1" /> stands for <ph dataRef="id2" id="ph2" />; the <pc dataRefEnd="id4" dataRefStart="id3" id="p1">Main()</pc> method is the entry point for C# applications.)</source>
+				</segment>
+			</unit>
+			<unit id="124" translate="yes">
+				<originalData>
+					<data id="id1">`svm`</data>
+				</originalData>
+				<segment state="initial">
+					<source>A pop-up dialog box appears with information about the <ph dataRef="id1" id="ph1" /> code snippet.</source>
+				</segment>
+			</unit>
+			<unit id="125" translate="yes">
+				<segment state="initial">
+					<source>IntelliSense for code snippet in Visual Studio</source>
+				</segment>
+			</unit>
+			<unit id="126" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Press <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Tab</pc> twice to insert the code snippet.</source>
+				</segment>
+			</unit>
+			<unit id="127" translate="yes">
+				<originalData>
+					<data id="id1">`static void Main()`</data>
+				</originalData>
+				<segment state="initial">
+					<source>You see the <ph dataRef="id1" id="ph1" /> method signature get added to the file.</source>
+				</segment>
+			</unit>
+			<unit id="128" translate="yes">
+				<segment state="initial">
+					<source>The available code snippets vary for different programming languages.</source>
+				</segment>
+			</unit>
+			<unit id="129" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3"> &gt; </data>
+					<data id="id4">**</data>
+					<data id="id5">**</data>
+					<data id="id6"> &gt; </data>
+					<data id="id7">**</data>
+					<data id="id8">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>You can look at the available code snippets for your language by choosing <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Edit</pc><ph dataRef="id3" id="ph1" /><pc dataRefEnd="id5" dataRefStart="id4" id="p2">IntelliSense</pc><ph dataRef="id6" id="ph2" /><pc dataRefEnd="id8" dataRefStart="id7" id="p3">Insert Snippet</pc>, and then choosing your language's folder.</source>
+				</segment>
+			</unit>
+			<unit id="130" translate="yes">
+				<segment state="initial">
+					<source>For C#, the list looks like this:</source>
+				</segment>
+			</unit>
+			<unit id="131" translate="yes">
+				<segment state="initial">
+					<source>C# code snippet list</source>
+				</segment>
+			</unit>
+			<unit id="132" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](/dotnet/csharp/programming-guide/classes-and-structs/classes)</data>
+					<data id="id3">[</data>
+					<data id="id4">](/dotnet/csharp/programming-guide/classes-and-structs/constructors)</data>
+					<data id="id5">[</data>
+					<data id="id6">](/dotnet/csharp/language-reference/keywords/for)</data>
+					<data id="id7">[</data>
+					<data id="id8">](/dotnet/csharp/language-reference/keywords/if-else)</data>
+					<data id="id9">[</data>
+					<data id="id10">](/dotnet/csharp/language-reference/keywords/switch)</data>
+				</originalData>
+				<segment state="initial">
+					<source>The list includes snippets for creating a <pc dataRefEnd="id2" dataRefStart="id1" id="p1">class</pc>, a <pc dataRefEnd="id4" dataRefStart="id3" id="p2">constructor</pc>, a <pc dataRefEnd="id6" dataRefStart="id5" id="p3">for</pc> loop, an <pc dataRefEnd="id8" dataRefStart="id7" id="p4">if</pc> or <pc dataRefEnd="id10" dataRefStart="id9" id="p5">switch</pc> statement, and more.</source>
+				</segment>
+			</unit>
+			<unit id="133" translate="yes">
+				<segment state="initial">
+					<source>Comment out code</source>
+				</segment>
+			</unit>
+			<unit id="134" translate="yes">
+				<segment state="initial">
+					<source>The toolbar, which is the row of buttons under the menu bar in Visual Studio, can help make you more productive as you code.</source>
+				</segment>
+			</unit>
+			<unit id="135" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](../ide/using-intellisense.md)</data>
+				</originalData>
+				<segment state="initial">
+					<source>For example, you can toggle IntelliSense completion mode (<pc dataRefEnd="id2" dataRefStart="id1" id="p1">IntelliSense</pc> is a coding aid that displays a list of matching methods, amongst other things), increase or decrease a line indent, or comment out code that you don't want to compile.</source>
+				</segment>
+			</unit>
+			<unit id="136" translate="yes">
+				<segment state="initial">
+					<source>In this section, we'll comment out some code.</source>
+				</segment>
+			</unit>
+			<unit id="137" translate="yes">
+				<segment state="initial">
+					<source>Editor toolbar</source>
+				</segment>
+			</unit>
+			<unit id="138" translate="yes">
+				<originalData>
+					<data id="id1">`Main()`</data>
+				</originalData>
+				<segment state="initial">
+					<source>Paste the following code into the <ph dataRef="id1" id="ph1" /> method body.</source>
+				</segment>
+			</unit>
+			<unit id="139" translate="yes">
+				<originalData>
+					<data id="id1">`morewords`</data>
+				</originalData>
+				<segment state="initial">
+					<source>We're not using the <ph dataRef="id1" id="ph1" /> variable, but we may use it later so we don't want to completely delete it.</source>
+				</segment>
+			</unit>
+			<unit id="140" translate="yes">
+				<segment state="initial">
+					<source>Instead, let's comment out those lines.</source>
+				</segment>
+			</unit>
+			<unit id="141" translate="yes">
+				<originalData>
+					<data id="id1">`morewords`</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Select the entire definition of <ph dataRef="id1" id="ph1" /> to the closing semi-colon, and then choose the <pc dataRefEnd="id3" dataRefStart="id2" id="p1">Comment out the selected lines</pc> button on the toolbar.</source>
+				</segment>
+			</unit>
+			<unit id="142" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">+</data>
+					<data id="id4">**</data>
+					<data id="id5">**</data>
+					<data id="id6">**</data>
+					<data id="id7">**</data>
+					<data id="id8">+</data>
+					<data id="id9">**</data>
+					<data id="id10">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>If you prefer to use the keyboard, press <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Ctrl</pc><ph dataRef="id3" id="ph1" /><pc dataRefEnd="id5" dataRefStart="id4" id="p2">K</pc>, <pc dataRefEnd="id7" dataRefStart="id6" id="p3">Ctrl</pc><ph dataRef="id8" id="ph2" /><pc dataRefEnd="id10" dataRefStart="id9" id="p4">C</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="143" translate="yes">
+				<segment state="initial">
+					<source>Comment out button</source>
+				</segment>
+			</unit>
+			<unit id="144" translate="yes">
+				<originalData>
+					<data id="id1">`//`</data>
+				</originalData>
+				<segment state="initial">
+					<source>The C# comment characters <ph dataRef="id1" id="ph1" /> are added to the beginning of each selected line to comment out the code.</source>
+				</segment>
+			</unit>
+			<unit id="145" translate="yes">
+				<segment state="initial">
+					<source>Collapse code blocks</source>
+				</segment>
+			</unit>
+			<unit id="146" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](/dotnet/csharp/programming-guide/classes-and-structs/constructors)</data>
+					<data id="id3">`Class1`</data>
+				</originalData>
+				<segment state="initial">
+					<source>We don't want to see the empty <pc dataRefEnd="id2" dataRefStart="id1" id="p1">constructor</pc> for <ph dataRef="id3" id="ph1" /> that was generated, so to unclutter our view of the code, let's collapse it.</source>
+				</segment>
+			</unit>
+			<unit id="147" translate="yes">
+				<segment state="initial">
+					<source>Choose the small gray box with the minus sign inside it in the margin of the first line of the constructor.</source>
+				</segment>
+			</unit>
+			<unit id="148" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">+</data>
+					<data id="id4">**</data>
+					<data id="id5">**</data>
+					<data id="id6">**</data>
+					<data id="id7">**</data>
+					<data id="id8">+</data>
+					<data id="id9">**</data>
+					<data id="id10">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Or, if you're a keyboard user, place the cursor anywhere in the constructor code and press <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Ctrl</pc><ph dataRef="id3" id="ph1" /><pc dataRefEnd="id5" dataRefStart="id4" id="p2">M</pc>, <pc dataRefEnd="id7" dataRefStart="id6" id="p3">Ctrl</pc><ph dataRef="id8" id="ph2" /><pc dataRefEnd="id10" dataRefStart="id9" id="p4">M</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="149" translate="yes">
+				<segment state="initial">
+					<source>Outlining collapse button</source>
+				</segment>
+			</unit>
+			<unit id="150" translate="yes">
+				<originalData>
+					<data id="id1">`...`</data>
+				</originalData>
+				<segment state="initial">
+					<source>The code block collapses to just the first line, followed by an ellipsis (<ph dataRef="id1" id="ph1" />).</source>
+				</segment>
+			</unit>
+			<unit id="151" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">+</data>
+					<data id="id4">**</data>
+					<data id="id5">**</data>
+					<data id="id6">**</data>
+					<data id="id7">**</data>
+					<data id="id8">+</data>
+					<data id="id9">**</data>
+					<data id="id10">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>To expand the code block again, click the same gray box that now has a plus sign in it, or press <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Ctrl</pc><ph dataRef="id3" id="ph1" /><pc dataRefEnd="id5" dataRefStart="id4" id="p2">M</pc>, <pc dataRefEnd="id7" dataRefStart="id6" id="p3">Ctrl</pc><ph dataRef="id8" id="ph2" /><pc dataRefEnd="id10" dataRefStart="id9" id="p4">M</pc> again.</source>
+				</segment>
+			</unit>
+			<unit id="152" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](../ide/outlining.md)</data>
+				</originalData>
+				<segment state="initial">
+					<source>This feature is called <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Outlining</pc> and is especially useful when you're collapsing long methods or entire classes.</source>
+				</segment>
+			</unit>
+			<unit id="153" translate="yes">
+				<segment state="initial">
+					<source>View symbol definitions</source>
+				</segment>
+			</unit>
+			<unit id="154" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>The Visual Studio editor makes it easy to inspect the definition of a type, method, etc. One way is to navigate to the file that contains the definition, for example by choosing <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Go to Definition</pc> anywhere the symbol is referenced.</source>
+				</segment>
+			</unit>
+			<unit id="155" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](../ide/go-to-and-peek-definition.md#peek-definition)</data>
+				</originalData>
+				<segment state="initial">
+					<source>An even quicker way that doesn't move your focus away from the file you're working in is to use <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Peek Definition</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="156" translate="yes">
+				<originalData>
+					<data id="id1">`string`</data>
+				</originalData>
+				<segment state="initial">
+					<source>Let's peek at the definition of the <ph dataRef="id1" id="ph1" /> type.</source>
+				</segment>
+			</unit>
+			<unit id="157" translate="yes">
+				<originalData>
+					<data id="id1">`string`</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Right-click on any occurrence of <ph dataRef="id1" id="ph1" /> and choose <pc dataRefEnd="id3" dataRefStart="id2" id="p1">Peek Definition</pc> from the content menu.</source>
+				</segment>
+			</unit>
+			<unit id="158" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">+</data>
+					<data id="id4">**</data>
+					<data id="id5">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Or, press <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Alt</pc><ph dataRef="id3" id="ph1" /><pc dataRefEnd="id5" dataRefStart="id4" id="p2">F12</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="159" translate="yes">
+				<originalData>
+					<data id="id1">`String`</data>
+				</originalData>
+				<segment state="initial">
+					<source>A pop-up window appears with the definition of the <ph dataRef="id1" id="ph1" /> class.</source>
+				</segment>
+			</unit>
+			<unit id="160" translate="yes">
+				<segment state="initial">
+					<source>You can scroll within the pop-up window, or even peek at the definition of another type from the peeked code.</source>
+				</segment>
+			</unit>
+			<unit id="161" translate="yes">
+				<segment state="initial">
+					<source>Peek definition window</source>
+				</segment>
+			</unit>
+			<unit id="162" translate="yes">
+				<segment state="initial">
+					<source>Close the peeked definition window by choosing the small box with an "x" at the top right of the pop-up window.</source>
+				</segment>
+			</unit>
+			<unit id="163" translate="yes">
+				<segment state="initial">
+					<source>Use IntelliSense to complete words</source>
+				</segment>
+			</unit>
+			<unit id="164" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](../ide/using-intellisense.md)</data>
+				</originalData>
+				<segment state="initial">
+					<source><pc dataRefEnd="id2" dataRefStart="id1" id="p1">IntelliSense</pc> is an invaluable resource when you're coding.</source>
+				</segment>
+			</unit>
+			<unit id="165" translate="yes">
+				<segment state="initial">
+					<source>It can show you information about available members of a type, or parameter details for different overloads of a method.</source>
+				</segment>
+			</unit>
+			<unit id="166" translate="yes">
+				<segment state="initial">
+					<source>You can also use IntelliSense to complete a word after you type enough characters to disambiguate it.</source>
+				</segment>
+			</unit>
+			<unit id="167" translate="yes">
+				<segment state="initial">
+					<source>Let's add a line of code to print out the ordered strings to the console window, which is the standard place for output from the program to go.</source>
+				</segment>
+			</unit>
+			<unit id="168" translate="yes">
+				<originalData>
+					<data id="id1">`query`</data>
+				</originalData>
+				<segment state="initial">
+					<source>Below the <ph dataRef="id1" id="ph1" /> variable, start typing the following code:</source>
+				</segment>
+			</unit>
+			<unit id="169" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">`query`</data>
+				</originalData>
+				<segment state="initial">
+					<source>You see IntelliSense show you <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Quick Info</pc> about the <ph dataRef="id3" id="ph1" /> symbol.</source>
+				</segment>
+			</unit>
+			<unit id="170" translate="yes">
+				<segment state="initial">
+					<source>IntelliSense word completion in Visual Studio</source>
+				</segment>
+			</unit>
+			<unit id="171" translate="yes">
+				<originalData>
+					<data id="id1">`query`</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>To insert the rest of the word <ph dataRef="id1" id="ph1" /> by using IntelliSense's word completion functionality, press <pc dataRefEnd="id3" dataRefStart="id2" id="p1">Tab</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="172" translate="yes">
+				<segment state="initial">
+					<source>Finish off the code block to look like the following code.</source>
+				</segment>
+			</unit>
+			<unit id="173" translate="yes">
+				<originalData>
+					<data id="id1">`cw`</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">`Console.WriteLine`</data>
+				</originalData>
+				<segment state="initial">
+					<source>You can even practice using code snippets again by entering <ph dataRef="id1" id="ph1" /> and then pressing <pc dataRefEnd="id3" dataRefStart="id2" id="p1">Tab</pc> twice to generate the <ph dataRef="id4" id="ph2" /> code.</source>
+				</segment>
+			</unit>
+			<unit id="174" translate="yes">
+				<segment state="initial">
+					<source>Refactor a name</source>
+				</segment>
+			</unit>
+			<unit id="175" translate="yes">
+				<segment state="initial">
+					<source>Nobody gets code right the first time, and one of the things you might have to change is the name of a variable or method.</source>
+				</segment>
+			</unit>
+			<unit id="176" translate="yes">
+				<originalData>
+					<data id="id1">[</data>
+					<data id="id2">](../ide/refactoring-in-visual-studio.md)</data>
+					<data id="id3">`_words`</data>
+					<data id="id4">`words`</data>
+				</originalData>
+				<segment state="initial">
+					<source>Let's try out Visual Studio's <pc dataRefEnd="id2" dataRefStart="id1" id="p1">refactor</pc> functionality to rename the <ph dataRef="id3" id="ph1" /> variable to <ph dataRef="id4" id="ph2" />.</source>
+				</segment>
+			</unit>
+			<unit id="177" translate="yes">
+				<originalData>
+					<data id="id1">`_words`</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+					<data id="id5">**</data>
+					<data id="id6">+</data>
+					<data id="id7">**</data>
+					<data id="id8">**</data>
+					<data id="id9">**</data>
+					<data id="id10">**</data>
+					<data id="id11">+</data>
+					<data id="id12">**</data>
+					<data id="id13">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Place your cursor over the definition of the <ph dataRef="id1" id="ph1" /> variable, and choose <pc dataRefEnd="id3" dataRefStart="id2" id="p1">Rename</pc> from the right-click or context menu, or press <pc dataRefEnd="id5" dataRefStart="id4" id="p2">Ctrl</pc><ph dataRef="id6" id="ph2" /><pc dataRefEnd="id8" dataRefStart="id7" id="p3">R</pc>, <pc dataRefEnd="id10" dataRefStart="id9" id="p4">Ctrl</pc><ph dataRef="id11" id="ph3" /><pc dataRefEnd="id13" dataRefStart="id12" id="p5">R</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="178" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>A pop-up <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Rename</pc> dialog box appears at the top right of the editor.</source>
+				</segment>
+			</unit>
+			<unit id="179" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Enter the desired name <pc dataRefEnd="id2" dataRefStart="id1" id="p1">words</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="180" translate="yes">
+				<originalData>
+					<data id="id1">`words`</data>
+				</originalData>
+				<segment state="initial">
+					<source>Notice that the reference to <ph dataRef="id1" id="ph1" /> in the query is also automatically renamed.</source>
+				</segment>
+			</unit>
+			<unit id="181" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+					<data id="id3">**</data>
+					<data id="id4">**</data>
+					<data id="id5">**</data>
+					<data id="id6">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Before you press <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Enter</pc>, select the <pc dataRefEnd="id4" dataRefStart="id3" id="p2">Include comments</pc> checkbox in the <pc dataRefEnd="id6" dataRefStart="id5" id="p3">Rename</pc> pop-up box.</source>
+				</segment>
+			</unit>
+			<unit id="182" translate="yes">
+				<segment state="initial">
+					<source>Rename dialog box</source>
+				</segment>
+			</unit>
+			<unit id="183" translate="yes">
+				<originalData>
+					<data id="id1">**</data>
+					<data id="id2">**</data>
+				</originalData>
+				<segment state="initial">
+					<source>Press <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Enter</pc>.</source>
+				</segment>
+			</unit>
+			<unit id="184" translate="yes">
+				<originalData>
+					<data id="id1">`words`</data>
+					<data id="id2">`words`</data>
+				</originalData>
+				<segment state="initial">
+					<source>Both occurrences of <ph dataRef="id1" id="ph1" /> have been renamed, as well as the reference to <ph dataRef="id2" id="ph2" /> in the code comment.</source>
+				</segment>
+			</unit>
+			<unit id="185" translate="yes">
+				<segment state="initial">
+					<source>Next steps</source>
+				</segment>
+			</unit>
+			<unit id="186" translate="yes">
+				<segment state="initial">
+					<source>Learn about projects and solutions</source>
+				</segment>
+			</unit>
+			<unit id="187" translate="yes">
+				<segment state="initial">
+					<source>See also</source>
+				</segment>
+			</unit>
+			<unit id="188" translate="yes">
+				<segment state="initial">
+					<source>Code snippets</source>
+				</segment>
+			</unit>
+			<unit id="189" translate="yes">
+				<segment state="initial">
+					<source>Navigate code</source>
+				</segment>
+			</unit>
+			<unit id="190" translate="yes">
+				<segment state="initial">
+					<source>Outlining</source>
+				</segment>
+			</unit>
+			<unit id="191" translate="yes">
+				<segment state="initial">
+					<source>Go To Definition and Peek Definition</source>
+				</segment>
+			</unit>
+			<unit id="192" translate="yes">
+				<segment state="initial">
+					<source>Refactoring</source>
+				</segment>
+			</unit>
+			<unit id="193" translate="yes">
+				<segment state="initial">
+					<source>Use IntelliSense</source>
+				</segment>
+			</unit>
+		</group>
+	</file>
+</xliff>
