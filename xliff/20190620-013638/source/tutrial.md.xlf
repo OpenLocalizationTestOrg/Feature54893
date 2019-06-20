@@ -11,7 +11,7 @@
 		<group id="content">
 			<unit id="101" translate="yes">
 				<segment state="initial">
-					<source>Introduction to editing in the code editor</source>
+					<source>まずはじめにIntroduction to editing in the code editor</source>
 				</segment>
 			</unit>
 			<unit id="102" translate="yes">
@@ -677,7 +677,7 @@
 					<data id="id2">**</data>
 				</originalData>
 				<segment state="initial">
-					<source>Press <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Enter</pc>.</source>
+					<source>押す！Press <pc dataRefEnd="id2" dataRefStart="id1" id="p1">Enter</pc>.</source>
 				</segment>
 			</unit>
 			<unit id="184" translate="yes">
