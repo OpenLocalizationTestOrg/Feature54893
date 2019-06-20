@@ -1,0 +1,111 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="change-external-sharing-site.md" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-d0fd20f" tool-company="Microsoft" /><xliffext:skl_file_name xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">db124fa9-b335-4fd7-8db1-f6c4a0a220f40d2c91f0f42e4b8eafecd91fcb444dba8f4e8508.skl</xliffext:skl_file_name><xliffext:version xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1.2</xliffext:version><xliffext:ms.openlocfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0d2c91f0f42e4b8eafecd91fcb444dba8f4e8508</xliffext:ms.openlocfilehash><xliffext:ms.sourcegitcommit xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">db124fa9-b335-4fd7-8db1-f6c4a0a220f4</xliffext:ms.sourcegitcommit><xliffext:ms.lasthandoff xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">06/20/2019</xliffext:ms.lasthandoff><xliffext:ms.openlocfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">source_Office\change-external-sharing-site.md</xliffext:ms.openlocfilepath></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Change the external sharing setting for a site</source>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Learn how to change the external sharing setting for a site.</source>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Turn external sharing on or off for a site</source>
+        </trans-unit><group id="paragraph-101" merged-trans="yes"><trans-unit id="p101" translate="no" xml:space="preserve">
+            <source>You must be a global or SharePoint admin in Office 365 to change the external sharing setting for a site (previously called a "site collection"). Site owners are not allowed to change this setting.</source>
+          </trans-unit><group id="sentence-101"><trans-unit id="104" translate="yes" xml:space="preserve">
+              <source>You must be a global or SharePoint admin in Office 365 to change the external sharing setting for a site (previously called a "site collection").</source>
+            </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+              <source>Site owners are not allowed to change this setting.</source>
+            </trans-unit></group></group><group id="paragraph-102" merged-trans="yes"><trans-unit id="p102" translate="no" xml:space="preserve">
+            <source>Note that this procedure applies to classic sites, communication sites, and new team sites. To learn how to change the external sharing setting for a user's OneDrive, see <bpt id="p1">[</bpt>Change the external sharing setting for a user's OneDrive<ept id="p1">](/onedrive/user-external-sharing-settings)</ept>. For info about changing your organization-level settings, see <bpt id="p2">[</bpt>Turn external sharing on or off for SharePoint Online<ept id="p2">](turn-external-sharing-on-or-off.md)</ept>.</source>
+          </trans-unit><group id="sentence-102"><trans-unit id="106" translate="yes" xml:space="preserve">
+              <source>Note that this procedure applies to classic sites, communication sites, and new team sites.</source>
+            </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+              <source>To learn how to change the external sharing setting for a user's OneDrive, see <bpt id="p1">[</bpt>Change the external sharing setting for a user's OneDrive<ept id="p1">](/onedrive/user-external-sharing-settings)</ept>.</source>
+            </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+              <source>For info about changing your organization-level settings, see <bpt id="p1">[</bpt>Turn external sharing on or off for SharePoint Online<ept id="p1">](turn-external-sharing-on-or-off.md)</ept>.</source>
+            </trans-unit></group></group><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Sign in to <ph id="ph1">https://admin.microsoft.com</ph> as a global or SharePoint admin. (If you see a message that you don't have permission to access the page, you don't have Office 365 administrator permissions in your organization.)</source>
+        </trans-unit><group id="paragraph-103" merged-trans="yes"><trans-unit id="p103" translate="no" xml:space="preserve">
+            <source>If you have Office 365 Germany, sign in at <ph id="ph1">https://portal.office.de</ph>. If you have Office 365 operated by 21Vianet (China), sign in at <ph id="ph2">https://login.partner.microsoftonline.cn/</ph>. Then select the Admin tile to open the admin center.</source>
+          </trans-unit><group id="sentence-103"><trans-unit id="110" translate="yes" xml:space="preserve">
+              <source>If you have Office 365 Germany, sign in at <ph id="ph1">https://portal.office.de</ph>.</source>
+            </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+              <source>If you have Office 365 operated by 21Vianet (China), sign in at <ph id="ph1">https://login.partner.microsoftonline.cn/</ph>.</source>
+            </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+              <source>Then select the Admin tile to open the admin center.</source>
+            </trans-unit></group></group><group id="paragraph-104" merged-trans="yes"><trans-unit id="p104" translate="no" xml:space="preserve">
+            <source>In the left pane, under <bpt id="p1">**</bpt>Admin centers<ept id="p1">**</ept>, select <bpt id="p2">**</bpt>SharePoint<ept id="p2">**</ept>. (You might need to select <bpt id="p3">**</bpt>Show all<ept id="p3">**</ept> to see the list of admin centers.)</source>
+          </trans-unit><group id="sentence-104"><trans-unit id="113" translate="yes" xml:space="preserve">
+              <source>In the left pane, under <bpt id="p1">**</bpt>Admin centers<ept id="p1">**</ept>, select <bpt id="p2">**</bpt>SharePoint<ept id="p2">**</ept>.</source>
+            </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+              <source>(You might need to select <bpt id="p1">**</bpt>Show all<ept id="p1">**</ept> to see the list of admin centers.)</source>
+            </trans-unit></group></group><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>If the classic SharePoint admin center appears, select <bpt id="p1">**</bpt>Try it now<ept id="p1">**</ept> to open the new SharePoint admin center.</source>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>In the left pane of the new SharePoint admin center, under <bpt id="p1">**</bpt>Sites<ept id="p1">**</ept> select <bpt id="p2">**</bpt>Active sites<ept id="p2">**</ept>.</source>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Select the site, and then select <bpt id="p1">**</bpt>Sharing<ept id="p1">**</ept>.</source>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Changing the external sharing setting for a site</source>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Select an external sharing option (see the following table), and select <bpt id="p1">**</bpt>Save<ept id="p1">**</ept>.</source>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Which option to select...</source>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Select this option:<ept id="p1">**</ept></source>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>If you want to:<ept id="p1">**</ept></source>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Anyone</source>
+        </trans-unit><group id="paragraph-105" merged-trans="yes"><trans-unit id="p105" translate="no" xml:space="preserve">
+            <source>Allow site owners and others with full control permission to share the site with people who authenticate. Allow site users to decide when sharing files and folders to require authentication or allow people to access the item anonymously. Anyone links to files and folders can be freely forwarded.</source>
+          </trans-unit><group id="sentence-105"><trans-unit id="124" translate="yes" xml:space="preserve">
+              <source>Allow site owners and others with full control permission to share the site with people who authenticate.</source>
+            </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+              <source>Allow site users to decide when sharing files and folders to require authentication or allow people to access the item anonymously.</source>
+            </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+              <source>Anyone links to files and folders can be freely forwarded.</source>
+            </trans-unit></group></group><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>New and existing guests</source>
+        </trans-unit><group id="paragraph-106" merged-trans="yes"><trans-unit id="p106" translate="no" xml:space="preserve">
+            <source>Allow site owners and others with full control permission to share the site with people outside the organization. These people will need to sign in and will be added to the directory. Allow site users to share files and folders with people who aren't in the organization's directory.</source>
+          </trans-unit><group id="sentence-106"><trans-unit id="128" translate="yes" xml:space="preserve">
+              <source>Allow site owners and others with full control permission to share the site with people outside the organization.</source>
+            </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+              <source>These people will need to sign in and will be added to the directory.</source>
+            </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+              <source>Allow site users to share files and folders with people who aren't in the organization's directory.</source>
+            </trans-unit></group></group><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Existing guests</source>
+        </trans-unit><group id="paragraph-107" merged-trans="yes"><trans-unit id="p107" translate="no" xml:space="preserve">
+            <source>Allow sharing with only people already in your directory. These users may exist in your directory because they previously accepted sharing invitations or because they were <bpt id="p1">[</bpt>manually added<ept id="p1">](/azure/active-directory/b2b/b2b-quickstart-add-guest-users-portal)</ept>. (You can tell an external user because they have <bpt id="p2">**</bpt>#EXT#<ept id="p2">**</ept> in their user name.)  </source>
+          </trans-unit><group id="sentence-107"><trans-unit id="132" translate="yes" xml:space="preserve">
+              <source>Allow sharing with only people already in your directory.</source>
+            </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+              <source>These users may exist in your directory because they previously accepted sharing invitations or because they were <bpt id="p1">[</bpt>manually added<ept id="p1">](/azure/active-directory/b2b/b2b-quickstart-add-guest-users-portal)</ept>.</source>
+            </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+              <source>(You can tell an external user because they have <bpt id="p1">**</bpt>#EXT#<ept id="p1">**</ept> in their user name.)</source>
+            </trans-unit></group></group><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>Only people in your organization</source>
+        </trans-unit><group id="paragraph-108" merged-trans="yes"><trans-unit id="p108" translate="no" xml:space="preserve">
+            <source>Prevent all site users from sharing any site content externally. (This is the default setting for new classic sites.)</source>
+          </trans-unit><group id="sentence-108"><trans-unit id="136" translate="yes" xml:space="preserve">
+              <source>Prevent all site users from sharing any site content externally.</source>
+            </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+              <source>(This is the default setting for new classic sites.)</source>
+            </trans-unit></group></group><group id="paragraph-109" merged-trans="yes"><trans-unit id="p109" translate="no" xml:space="preserve">
+            <source>The settings available are dependent on your organization-level setting. If you enable external sharing for a site and it is later turned off for your organization, external sharing will become unavailable at the site level and any shared links will stop working. If it is turned back on for the organization, the site sharing setting will return to what it was before and the shared links will resume working.</source>
+          </trans-unit><group id="sentence-109"><trans-unit id="138" translate="yes" xml:space="preserve">
+              <source>The settings available are dependent on your organization-level setting.</source>
+            </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+              <source>If you enable external sharing for a site and it is later turned off for your organization, external sharing will become unavailable at the site level and any shared links will stop working.</source>
+            </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+              <source>If it is turned back on for the organization, the site sharing setting will return to what it was before and the shared links will resume working.</source>
+            </trans-unit></group></group><group id="paragraph-110" merged-trans="yes"><trans-unit id="p110" translate="no" xml:space="preserve">
+            <source>You might have site content shared with an Office 365 group that has guest members, and the group settings prevent guest members from accessing group resources. In this case, even if you turn on external sharing for the site, guests of the group may not be able to access site content. To enable or disable Office 365 Group guest member access, see <bpt id="p1">[</bpt>Manage guest access in Office 365 Groups<ept id="p1">](/office365/admin/create-groups/manage-guest-access-in-groups)</ept>.</source>
+          </trans-unit><group id="sentence-110"><trans-unit id="141" translate="yes" xml:space="preserve">
+              <source>You might have site content shared with an Office 365 group that has guest members, and the group settings prevent guest members from accessing group resources.</source>
+            </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+              <source>In this case, even if you turn on external sharing for the site, guests of the group may not be able to access site content.</source>
+            </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+              <source>To enable or disable Office 365 Group guest member access, see <bpt id="p1">[</bpt>Manage guest access in Office 365 Groups<ept id="p1">](/office365/admin/create-groups/manage-guest-access-in-groups)</ept>.</source>
+            </trans-unit></group></group><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>See also</source>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Stop sharing files or folders or change permissions<ept id="p1">](https://support.office.com/article/0a36470f-d7fe-40a0-bd74-0ac6c1e13323)</ept></source>
+        </trans-unit></group></body></file></xliff>
