@@ -7,7 +7,7 @@
         </trans-unit><group id="paragraph-101" merged-trans="yes"><trans-unit id="p101" translate="no" xml:space="preserve">
             <source>You must be a global or SharePoint admin in Office 365 to change the external sharing setting for a site (previously called a "site collection"). Site owners are not allowed to change this setting.</source>
           </trans-unit><group id="sentence-101"><trans-unit id="104" translate="yes" xml:space="preserve">
-              <source>You must be a global or SharePoint admin in Office 365 to change the external sharing setting for a site (previously called a "site collection").</source>
+              <source>アドミンでないとねYou must be a global or SharePoint admin in Office 365 to change the external sharing setting for a site (previously called a "site collection").</source>
             </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
               <source>Site owners are not allowed to change this setting.</source>
             </trans-unit></group></group><group id="paragraph-102" merged-trans="yes"><trans-unit id="p102" translate="no" xml:space="preserve">
