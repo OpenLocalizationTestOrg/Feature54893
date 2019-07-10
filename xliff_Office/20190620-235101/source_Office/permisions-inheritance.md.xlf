@@ -1,0 +1,181 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="permisions-inheritance.md" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-d0fd20f" tool-company="Microsoft" /><xliffext:skl_file_name xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">db124fa9-b335-4fd7-8db1-f6c4a0a220f4bef0e362e6a1daa098772497aacf89c860229907.skl</xliffext:skl_file_name><xliffext:version xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1.2</xliffext:version><xliffext:ms.openlocfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">bef0e362e6a1daa098772497aacf89c860229907</xliffext:ms.openlocfilehash><xliffext:ms.sourcegitcommit xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">db124fa9-b335-4fd7-8db1-f6c4a0a220f4</xliffext:ms.sourcegitcommit><xliffext:ms.lasthandoff xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">06/20/2019</xliffext:ms.lasthandoff><xliffext:ms.openlocfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">source_Office\permisions-inheritance.md</xliffext:ms.openlocfilepath></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>What is permissions inheritance?</source>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>What is permissions inheritance in SharePoint and SharePoint Online and why do we use it; what is a parent; permissions recommendations that can save time.</source>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>What is permissions inheritance?</source>
+        </trans-unit><group id="paragraph-101" merged-trans="yes"><trans-unit id="p101" translate="no" xml:space="preserve">
+            <source>Permissions inheritance means that the permission settings of an element in a site collection are passed on to the children of that element. In this way, sites inherit permissions from the root site of the site collection, libraries inherit from the site that contains the library, and so on. Permission inheritance enables you to make a permission assignment once, and have that permission apply to all sites, lists, libraries, folders and items that inherit permissions. This behavior can reduce complexity and the amount of time Administrators and Site Owners spend on security management.</source>
+          </trans-unit><group id="sentence-101"><trans-unit id="104" translate="yes" xml:space="preserve">
+              <source>権利の継承とはPermissions inheritance means that the permission settings of an element in a site collection are passed on to the children of that element.</source>
+            </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+              <source>In this way, sites inherit permissions from the root site of the site collection, libraries inherit from the site that contains the library, and so on.</source>
+            </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+              <source>Permission inheritance enables you to make a permission assignment once, and have that permission apply to all sites, lists, libraries, folders and items that inherit permissions.</source>
+            </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+              <source>This behavior can reduce complexity and the amount of time Administrators and Site Owners spend on security management.</source>
+            </trans-unit></group></group><group id="paragraph-102" merged-trans="yes"><trans-unit id="p102" translate="no" xml:space="preserve">
+            <source>By default, SharePoint sites inherit permissions from a parent site. This means that when you assign a user to the Members group, the user's permissions automatically cascade down through all the sites, lists, libraries, folders and items that inherit the permission level.</source>
+          </trans-unit><group id="sentence-102"><trans-unit id="108" translate="yes" xml:space="preserve">
+              <source>By default, SharePoint sites inherit permissions from a parent site.</source>
+            </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+              <source>This means that when you assign a user to the Members group, the user's permissions automatically cascade down through all the sites, lists, libraries, folders and items that inherit the permission level.</source>
+            </trans-unit></group></group><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>What is a parent in SharePoint permissions?</source>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">&lt;a name="__toc340139789"&gt;</bpt> <ept id="p1">&lt;/a&gt;</ept></source>
+        </trans-unit><group id="paragraph-103" merged-trans="yes"><trans-unit id="p103" translate="no" xml:space="preserve">
+            <source>The term parent, when used in SharePoint permissions, is just a way to emphasize inheritance. The parent passes down its permission settings to all its children. By default, the root site of a site collection is the first parent for all the sites and other objects that are below it in the site hierarchy.</source>
+          </trans-unit><group id="sentence-103"><trans-unit id="112" translate="yes" xml:space="preserve">
+              <source>The term parent, when used in SharePoint permissions, is just a way to emphasize inheritance.</source>
+            </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+              <source>The parent passes down its permission settings to all its children.</source>
+            </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+              <source>By default, the root site of a site collection is the first parent for all the sites and other objects that are below it in the site hierarchy.</source>
+            </trans-unit></group></group><group id="paragraph-104" merged-trans="yes"><trans-unit id="p104" translate="no" xml:space="preserve">
+            <source>The site collection root is not the only parent on a site. Every securable object (sites, libraries, lists, and so on) in a site collection can be a parent. That is, the site collection root is the parent of its subsites, each site is the parent of its libraries and lists, and each list is the parent of the list items in it. In this terminology, an object with a parent is known as a child. So, a subsite is the child of its parent site, a list item is the child of its list parent, and so on.</source>
+          </trans-unit><group id="sentence-104"><trans-unit id="115" translate="yes" xml:space="preserve">
+              <source>The site collection root is not the only parent on a site.</source>
+            </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+              <source>Every securable object (sites, libraries, lists, and so on) in a site collection can be a parent.</source>
+            </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+              <source>That is, the site collection root is the parent of its subsites, each site is the parent of its libraries and lists, and each list is the parent of the list items in it.</source>
+            </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+              <source>In this terminology, an object with a parent is known as a child.</source>
+            </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+              <source>So, a subsite is the child of its parent site, a list item is the child of its list parent, and so on.</source>
+            </trans-unit></group></group><group id="paragraph-105" merged-trans="yes"><trans-unit id="p105" translate="no" xml:space="preserve">
+            <source>By default, permissions are inherited from parent to child. That is, if you do not change the permission structure, then a list item inherits permissions (through its parent list) from the top-level site in the collection. However, even if you break inheritance for a list, that list is still a parent for its own list items. The list items for the list inherit the permissions that the list has, and if you change the permissions for the list, the list items inherit the changes.</source>
+          </trans-unit><group id="sentence-105"><trans-unit id="120" translate="yes" xml:space="preserve">
+              <source>By default, permissions are inherited from parent to child.</source>
+            </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+              <source>That is, if you do not change the permission structure, then a list item inherits permissions (through its parent list) from the top-level site in the collection.</source>
+            </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+              <source>However, even if you break inheritance for a list, that list is still a parent for its own list items.</source>
+            </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+              <source>The list items for the list inherit the permissions that the list has, and if you change the permissions for the list, the list items inherit the changes.</source>
+            </trans-unit></group></group><group id="paragraph-106" merged-trans="yes"><trans-unit id="p106" translate="no" xml:space="preserve">
+            <source>When you first break this chain of inheritance from parent to child, the child starts with a copy of the parent's permissions. Then, you edit these permissions to make them the way that you want. You can add permissions, remove permissions, create special groups, and so on. None of the changes affect the original parent. And, if you decide that breaking inheritance was the wrong decision, you can resume inheriting permissions at any time.</source>
+          </trans-unit><group id="sentence-106"><trans-unit id="124" translate="yes" xml:space="preserve">
+              <source>When you first break this chain of inheritance from parent to child, the child starts with a copy of the parent's permissions.</source>
+            </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+              <source>Then, you edit these permissions to make them the way that you want.</source>
+            </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+              <source>You can add permissions, remove permissions, create special groups, and so on.</source>
+            </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+              <source>None of the changes affect the original parent.</source>
+            </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+              <source>And, if you decide that breaking inheritance was the wrong decision, you can resume inheriting permissions at any time.</source>
+            </trans-unit></group></group><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>More about permissions inheritance</source>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">&lt;a name="__toc340139790"&gt;</bpt> <ept id="p1">&lt;/a&gt;</ept></source>
+        </trans-unit><group id="paragraph-107" merged-trans="yes"><trans-unit id="p107" translate="no" xml:space="preserve">
+            <source>Permission inheritance enables an administrator to assign permission levels at one time, and have the permissions apply throughout the site collection. Permissions pass from parent to child throughout the SharePoint hierarchy, from the top level of a site to the bottom. Permission inheritance can save time for site administrators, especially on large or complex site collections.</source>
+          </trans-unit><group id="sentence-107"><trans-unit id="131" translate="yes" xml:space="preserve">
+              <source>Permission inheritance enables an administrator to assign permission levels at one time, and have the permissions apply throughout the site collection.</source>
+            </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+              <source>Permissions pass from parent to child throughout the SharePoint hierarchy, from the top level of a site to the bottom.</source>
+            </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+              <source>Permission inheritance can save time for site administrators, especially on large or complex site collections.</source>
+            </trans-unit></group></group><group id="paragraph-108" merged-trans="yes"><trans-unit id="p108" translate="no" xml:space="preserve">
+            <source>However, some scenarios have different requirements. In one scenario, you might have to restrict access to a site because it contains sensitive information that you must protect. In a different scenario, you might want to expand access and invite others to share information. If you want, you can break the inheritance behavior (stop inheriting permissions) at any level in the hierarchy.</source>
+          </trans-unit><group id="sentence-108"><trans-unit id="134" translate="yes" xml:space="preserve">
+              <source>However, some scenarios have different requirements.</source>
+            </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+              <source>In one scenario, you might have to restrict access to a site because it contains sensitive information that you must protect.</source>
+            </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+              <source>In a different scenario, you might want to expand access and invite others to share information.</source>
+            </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+              <source>If you want, you can break the inheritance behavior (stop inheriting permissions) at any level in the hierarchy.</source>
+            </trans-unit></group></group><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Let's look at examples of these different scenarios.</source>
+        </trans-unit><group id="paragraph-109" merged-trans="yes"><trans-unit id="p109" translate="no" xml:space="preserve">
+            <source>Suppose that you have a book distribution company called Litware, and that you subscribe to Office 365. You create a SharePoint Online site named www.litware.com. This is the site collection root. At the site collection root, you set up SharePoint groups, assign permission levels, and add users to the groups.</source>
+          </trans-unit><group id="sentence-109"><trans-unit id="139" translate="yes" xml:space="preserve">
+              <source>Suppose that you have a book distribution company called Litware, and that you subscribe to Office 365.</source>
+            </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+              <source>You create a SharePoint Online site named www.litware.com.</source>
+            </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+              <source>This is the site collection root.</source>
+            </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+              <source>At the site collection root, you set up SharePoint groups, assign permission levels, and add users to the groups.</source>
+            </trans-unit></group></group><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>Suppose then that you create subsites, such as www.Litware.com/BookAwards and www.litware.com/Bestsellers, and that these subsites contain more subsites.</source>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>A scenario that uses default behavior</source>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">&lt;a name="__toc340139791"&gt;</bpt> <ept id="p1">&lt;/a&gt;</ept></source>
+        </trans-unit><group id="paragraph-110" merged-trans="yes"><trans-unit id="p110" translate="no" xml:space="preserve">
+            <source>The following illustration shows the default behavior, when permissions pass directly to subsites. That is, the groups and permission levels that you assigned at the site collection root pass down automatically to the subsite for reuse.</source>
+          </trans-unit><group id="sentence-110"><trans-unit id="146" translate="yes" xml:space="preserve">
+              <source>The following illustration shows the default behavior, when permissions pass directly to subsites.</source>
+            </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+              <source>That is, the groups and permission levels that you assigned at the site collection root pass down automatically to the subsite for reuse.</source>
+            </trans-unit></group></group><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>Permissions inheritance</source>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>A scenario that restricts access to a site and its children</source>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">&lt;a name="__toc340139792"&gt;</bpt> <ept id="p1">&lt;/a&gt;</ept></source>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>You might want to do this to restrict access to the separated site and its children.</source>
+        </trans-unit><group id="paragraph-111" merged-trans="yes"><trans-unit id="p111" translate="no" xml:space="preserve">
+            <source>For example, suppose that your company, Litware, supports active promotional opportunities and deals for bestsellers. Because the deals that the company offers are secret, only certain people in the company can access the information about the bestseller authors and deals. So, the administrators decide to separate the Bestsellers site, and break inheritance.</source>
+          </trans-unit><group id="sentence-111"><trans-unit id="152" translate="yes" xml:space="preserve">
+              <source>For example, suppose that your company, Litware, supports active promotional opportunities and deals for bestsellers.</source>
+            </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+              <source>Because the deals that the company offers are secret, only certain people in the company can access the information about the bestseller authors and deals.</source>
+            </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+              <source>So, the administrators decide to separate the Bestsellers site, and break inheritance.</source>
+            </trans-unit></group></group><group id="paragraph-112" merged-trans="yes"><trans-unit id="p112" translate="no" xml:space="preserve">
+            <source>In the following illustration, the www.Litware.com/Bestsellers breaks inheritance from the parent site, www.litware.com. The site owners for the Best Sellers site change the permissions for the site, removing some groups and creating others. The subsites of the Bestsellers site, Authors and Deals, now inherit permissions only from the Bestsellers subsite. Only the groups and users for Bestsellers can access the lists and libraries that contain sensitive information.</source>
+          </trans-unit><group id="sentence-112"><trans-unit id="155" translate="yes" xml:space="preserve">
+              <source>In the following illustration, the www.Litware.com/Bestsellers breaks inheritance from the parent site, www.litware.com.</source>
+            </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+              <source>The site owners for the Best Sellers site change the permissions for the site, removing some groups and creating others.</source>
+            </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+              <source>The subsites of the Bestsellers site, Authors and Deals, now inherit permissions only from the Bestsellers subsite.</source>
+            </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+              <source>Only the groups and users for Bestsellers can access the lists and libraries that contain sensitive information.</source>
+            </trans-unit></group></group><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>Permissions inheritance broken illustration.</source>
+        </trans-unit><group id="paragraph-113" merged-trans="yes"><trans-unit id="p113" translate="no" xml:space="preserve">
+            <source>For ease of maintenance, we recommend that you use a similar method to restrict access. That is, organize your site so that sensitive material is in the same place. If you organize the site this way, you only have to break inheritance one time, for that specific site or library. This is much less overhead. It requires much less work than creating separate permission structures in many locations for individual subsites and libraries.</source>
+          </trans-unit><group id="sentence-113"><trans-unit id="160" translate="yes" xml:space="preserve">
+              <source>For ease of maintenance, we recommend that you use a similar method to restrict access.</source>
+            </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+              <source>That is, organize your site so that sensitive material is in the same place.</source>
+            </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+              <source>If you organize the site this way, you only have to break inheritance one time, for that specific site or library.</source>
+            </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+              <source>This is much less overhead.</source>
+            </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+              <source>It requires much less work than creating separate permission structures in many locations for individual subsites and libraries.</source>
+            </trans-unit></group></group><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>A scenario that shares access for a library and its documents</source>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">&lt;a name="__toc340139793"&gt;</bpt> <ept id="p1">&lt;/a&gt;</ept></source>
+        </trans-unit><group id="paragraph-114" merged-trans="yes"><trans-unit id="p114" translate="no" xml:space="preserve">
+            <source>In this scenario, suppose that Jane is an editor in your Local Books division. Jane is collaborating with an author on a history of the labor union movement. She compiled a research document that she wants to share with the author. The research would be really useful in their collaboration. However, the author does not work for Litware and can't access the information on the Litware site.</source>
+          </trans-unit><group id="sentence-114"><trans-unit id="167" translate="yes" xml:space="preserve">
+              <source>In this scenario, suppose that Jane is an editor in your Local Books division.</source>
+            </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+              <source>Jane is collaborating with an author on a history of the labor union movement.</source>
+            </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+              <source>She compiled a research document that she wants to share with the author.</source>
+            </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+              <source>The research would be really useful in their collaboration.</source>
+            </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+              <source>However, the author does not work for Litware and can't access the information on the Litware site.</source>
+            </trans-unit></group></group><group id="paragraph-115" merged-trans="yes"><trans-unit id="p115" translate="no" xml:space="preserve">
+            <source>Jane has a simple solution - she can just share the document together with the author by clicking a command on the ribbon. SharePoint automatically handles all the details of permissions and access, by breaking inheritance on the document itself. Now, the local author can browse the site to the document location and access the document, but can't view or access any other information on the site.</source>
+          </trans-unit><group id="sentence-115"><trans-unit id="172" translate="yes" xml:space="preserve">
+              <source>Jane has a simple solution - she can just share the document together with the author by clicking a command on the ribbon.</source>
+            </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+              <source>SharePoint automatically handles all the details of permissions and access, by breaking inheritance on the document itself.</source>
+            </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+              <source>Now, the local author can browse the site to the document location and access the document, but can't view or access any other information on the site.</source>
+            </trans-unit></group></group><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>For more information about inviting an external user to use information on your site, see <bpt id="p1">[</bpt>Share SharePoint files or folders in Office 365<ept id="p1">](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)</ept>.</source>
+        </trans-unit></group></body></file></xliff>

@@ -1,0 +1,113 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="microsoft-browser-extension-policy.md" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-d0fd20f" tool-company="Microsoft" /><xliffext:skl_file_name xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">edd59189-7392-4539-8a5f-f253cbcbed0b117be4531763ef96a129fad7738033b4e975ab53.skl</xliffext:skl_file_name><xliffext:version xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1.2</xliffext:version><xliffext:ms.openlocfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">117be4531763ef96a129fad7738033b4e975ab53</xliffext:ms.openlocfilehash><xliffext:ms.sourcegitcommit xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">edd59189-7392-4539-8a5f-f253cbcbed0b</xliffext:ms.sourcegitcommit><xliffext:ms.lasthandoff xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">06/20/2019</xliffext:ms.lasthandoff><xliffext:ms.openlocfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">source_WDG\microsoft-browser-extension-policy.md</xliffext:ms.openlocfilepath></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Read the legal policy describing supported mechanisms for extending or modifying the behavior or user experience of Microsoft Edge and Internet Explorer.</source>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>拡張ポリシーExtensions - Microsoft browser extension policy</source>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>edge, web development, html, css, javascript, developer</source>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Microsoft browser extension policy</source>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>This document describes the supported mechanisms for extending or modifying the behavior or user experience of Microsoft Edge and Internet Explorer, or the content displayed by these browsers.</source>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Any technique not explicitly listed in this document is considered <bpt id="p1">**</bpt>unsupported<ept id="p1">**</ept>.</source>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>These supported extension mechanisms are designed to ensure that users are able to customize and extend their browser with software of their choice, while maintaining safe and uninterrupted use of their browser and PC.</source>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Software that uses unsupported techniques or practices to extend or modify the browsing experience of Microsoft Edge or Internet Explorer may be subject to being blocked or removed by anti-malware software.</source>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Supported mechanisms for software that extends or modifies Microsoft Edge</source>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Summary</source>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Microsoft Edge is designed to be secure, reliable, fast and responsive by default, and to ensure that the user is always in control of their experience.</source>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Microsoft Edge Extensions, available exclusively from the Microsoft Store, are the <bpt id="p1">**</bpt>only supported<ept id="p1">**</ept> mechanism to modify the end-user experience of Microsoft Edge, including the browser configuration and the content displayed in the browser.</source>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Any other mechanism that impacts the configuration of Microsoft Edge, or the content that the browser displays, unless explicitly listed in this document is <bpt id="p1">**</bpt>unsupported<ept id="p1">**</ept>.</source>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Installation, Management, and Removal</source>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>All extensions for Microsoft Edge must be deployed from the Microsoft Store.</source>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>The installation must be initiated and completed by the user, using only the user experience provided by Microsoft Edge and the Microsoft Store.</source>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Software may refer to the extension in the Microsoft Store, but may not change the experience of acquiring the extension, or otherwise apply undue influence or false pretenses to the user to make them install the extension.</source>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Software may not interfere with the user�fs ability to disable, or remove any extension, or modify in any way the extension management user experience of Microsoft Edge.</source>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>All extensions must follow the current Microsoft Store policy for Microsoft Edge extensions.</source>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Extension development</source>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>An exception to the Microsoft Store requirement is provided only for developers and testers of in-development extensions.</source>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>These may be loaded into an instance of Microsoft Edge temporarily with full knowledge of the user, who will be alerted to their presence.</source>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Extensions will be disabled automatically if the user does not consent to their ongoing presence.</source>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Modification of Microsoft Edge settings</source>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Microsoft Edge uses the registry and other local or cloud storage mechanisms to store the state or configuration of many of its features, including, but not limited to the user�fs start page and content therein, address bar search engine, new tab page, favorites, reading list, and the state or configuration of features of the browser.</source>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Software may not make any direct or indirect changes to any of these settings for any reason.</source>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>All changes to settings must be initiated by the user via the Microsoft Edge user experience.</source>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Software may not influence or guide user�fs choices via overlays or other user experience modification, or provide alternate consent experiences.</source>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Microsoft supports Group Policy and MDM Policy to customize specific behavior of Microsoft Edge on devices that are under the control of an organization.</source>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>These policies may only be configured by an administrator of the organization.</source>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Software that uses these policies in other contexts may be subject to being blocked or removed by anti-malware software.</source>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Network traffic modification</source>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Some software modifies the content shown in browsers and other apps by modifying the network traffic, via various mechanisms including, but not limited to, Proxy installation or DNS changes.</source>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>This form of traffic modification is generally <bpt id="p1">**</bpt>unsupported<ept id="p1">**</ept> except for specific activities: setting up a Virtual Private Network (VPN) or filtering web content (e.g. the removal of unwanted advertising, unsafe, or objectionable content).</source>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>Software that modifies the content must follow standard good behavior for Windows software including: clear notification during installation of the purpose and effect of the software, clear instructions for disabling or removing the software, and a clear entry in the Windows program list that allows a user to uninstall the software (which must completely remove the product from the system).</source>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Software that performs traffic modification of purposes other than those listed above, or which does not follow the guidelines for Windows software will be considered <bpt id="p1">**</bpt>unsupported<ept id="p1">**</ept> and may be blocked or removed by anti-malware software.</source>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Supported mechanisms for software that extends or modifies Internet Explorer</source>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Installation, Management, and Removal</source>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>All extensions must be installed using techniques described on the Microsoft Development Network for <bpt id="p1">[</bpt>Internet Explorer Extensions<ept id="p1">](https://msdn.microsoft.com/library/aa753587)</ept>.</source>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>Software must not bypass Internet Explorer�fs extension installation process.</source>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Software must allow a user to confirm extension activation and installation through Internet Explorer�fs interface, and this interface must not be altered, bypassed, overlaid, or otherwise have its experience altered in any way.</source>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Software must respect a user�fs ability to enable or disable any browser extension through Internet Explorer's �gManage Add-ons�h dialog.</source>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>This dialog must not be altered in any way.</source>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Toolbars must provide users with a close icon to permanently disable the toolbar.</source>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>Toolbars must also provide an entry in the Add or Remove Programs dialog within Windows.</source>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Note -<ept id="p1">**</ept> The requirements of this section do not apply to modifications to Internet Explorer that are approved by a system administrator on a device under the control of an organization.</source>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>Capabilities and Execution</source>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>Extensions must only use supported Internet Explorer and Windows APIs.</source>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>Software (e.g. extensions) must not programmatically alter or limit access to browser features including but not limited to: the address bar, homepage, search box, new tab page, or favorites.</source>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>Network-based (e.g. DNS or Proxy) traffic modification must only be used for the purposes of Virtual Private Networks or filtering web content (e.g. the removal of advertising, unsafe, or objectionable content).</source>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>Starting with Internet Explorer 11, extensions must be compatible with Enhanced Protected Mode (EPM).</source>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>Software must not lower Internet Explorer security settings.</source>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>Change Log</source>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>April 2016: Document Published</source>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>October 2016: Updated for publishing Microsoft Edge extensions to Microsoft Store</source>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>August 2017: Clarification for managed devices</source>
+        </trans-unit></group></body></file></xliff>
