@@ -1,0 +1,11 @@
+source\tutrial.md,Succeeded,Successful
+source\index.md,Succeeded,Successful
+source\about-microsoft-spy-increment.md,Succeeded,Successful
+source\toc.yml,Failed,Failed - Exception Occured - '"D:\Program Files\Git\cmd\git.exe" fetch' failed in directory 'D:\home\ol\bd9c4f\0' with exit code 128: 
+STDOUT:'
+'
+STDERR:
+'remote: Repository not found.
+fatal: repository 'https://c970e5be79f81a29c6c46ae70fd1480656fb8fb9@github.com/MicrosoftDocs/schemas/' not found
+
+'

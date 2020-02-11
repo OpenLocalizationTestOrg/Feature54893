@@ -1,0 +1,292 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="index.md" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-41fc25a" tool-company="Microsoft" /><xliffext:skl_file_name xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">574da2ea-1bde-41c9-99b8-643dc0c773eac3a1f6f433a2d8baef9c90a1aa03ab5c302f4d3f.skl</xliffext:skl_file_name><xliffext:version xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1.2</xliffext:version><xliffext:ms.openlocfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c3a1f6f433a2d8baef9c90a1aa03ab5c302f4d3f</xliffext:ms.openlocfilehash><xliffext:ms.sourcegitcommit xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">574da2ea-1bde-41c9-99b8-643dc0c773ea</xliffext:ms.sourcegitcommit><xliffext:ms.lasthandoff xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">02/11/2020</xliffext:ms.lasthandoff><xliffext:ms.openlocfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">source\index.md</xliffext:ms.openlocfilepath></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Technical documentation, API, and code examples | Microsoft Docs</source>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Get the latest Microsoft documentation for end users, developers and IT professionals: API reference, code examples, technical documentation, and more.</source>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Introducing a new approach to learning</source>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Hands-on training that helps you advance your career and earn your spot at the top.</source>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                &lt;a href="/learn/" class="button is-primary is-small-mobile"&gt;</bpt><bpt id="p2">
+                    &lt;span&gt;</bpt>Start learning<ept id="p2">&lt;/span&gt;</ept><bpt id="p3">
+                    &lt;span class="icon" aria-hidden="true"&gt;</bpt><bpt id="p4">
+                        &lt;span class="docon docon-chevron-right-light"&gt;</bpt><ept id="p4">&lt;/span&gt;</ept><ept id="p3">
+                    &lt;/span&gt;</ept><ept id="p1">
+                &lt;/a&gt;</ept><ph id="ph1">
+            </ph></source>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Microsoft Docs</source>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>docs.microsoft.com is the home for Microsoft documentation for end users, developers, and IT professionals.</source>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Check out our quickstarts, tutorials, API reference, and code examples.</source>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Docs directory <bpt id="p1">&lt;span class="chevron"&gt;</bpt><ept id="p1">&lt;/span&gt;</ept></source>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Docs Directory</source>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/dotnet/"&gt;</bpt>.NET<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/aspnet/"&gt;</bpt>ASP.NET<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/azure/"&gt;</bpt>Azure<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/bot-framework/"&gt;</bpt>Azure Bot Service<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/azure/devops/"&gt;</bpt>Azure DevOps<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/azure/iot-fundamentals/"&gt;</bpt>Azure IoT Central<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/bingmaps/"&gt;</bpt>Bing Maps<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/biztalk/"&gt;</bpt>Biztalk Server<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/cpp/"&gt;</bpt>C++<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/dotnet/csharp/"&gt;</bpt>C#<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/cognitive-toolkit/"&gt;</bpt>Cognitive Toolkit (CNTK)<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/common-data-service/"&gt;</bpt>Common Data Service<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/cortana/skills/"&gt;</bpt>Cortana Skills<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/partner-center/dashboard/"&gt;</bpt>Dashboard Services<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/dynamics365/"&gt;</bpt>Dynamics 365<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/enterprise-mobility-security/"&gt;</bpt>Enterprise Mobility + Security<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/ef/"&gt;</bpt>Entity Framework<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/exchange/"&gt;</bpt>Exchange<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/dotnet/fsharp/"&gt;</bpt>F#<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/HealthBot/"&gt;</bpt>HealthBot<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/healthvault/"&gt;</bpt>HealthVault<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/intune-classic/"&gt;</bpt>Intune<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/iis/"&gt;</bpt>Internet Information Services<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/advertising/"&gt;</bpt>Microsoft Advertising<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/office365/kaizala/"&gt;</bpt>Microsoft Kaizala<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/microsoft-365-business/"&gt;</bpt>Microsoft 365 Business<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/microsoft-365-enterprise/"&gt;</bpt>Microsoft 365 Enterprise<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/education/"&gt;</bpt>Microsoft Education<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/fasttrack/"&gt;</bpt>Microsoft FastTrack<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/flow/"&gt;</bpt>Microsoft Flow<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/forms-pro/"&gt;</bpt>Microsoft Forms Pro<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/graph/overview"&gt;</bpt>Microsoft Graph<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/powershell/high-performance-computing/"&gt;</bpt>Microsoft HPC Pack 2016<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/machine-learning-server/"&gt;</bpt>Microsoft Machine Learning Server<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/microsoft-365/managed-desktop/"&gt;</bpt>Microsoft Managed Desktop<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                  &lt;a class="barLink" href="/quantum/"&gt;</bpt>Microsoft Quantum Development<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/microsoftsearch/"&gt;</bpt>Microsoft Search<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/security-updates/"&gt;</bpt>Microsoft Security Response Center<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/stream/"&gt;</bpt>Microsoft Stream<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/surface/"&gt;</bpt>Microsoft Surface<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/MicrosoftTeams/Microsoft-Teams"&gt;</bpt>Microsoft Teams<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/workplace-analytics/"&gt;</bpt>Microsoft Workplace Analytics and MyAnalytics<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/dotnet/machine-learning/"&gt;</bpt>ML.NET<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/nuget/"&gt;</bpt>NuGet<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/office/"&gt;</bpt>Office<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/office365/"&gt;</bpt>Office 365<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/onedrive/"&gt;</bpt>OneDrive<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/openspecs/"&gt;</bpt>Open Specifications<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/playready/"&gt;</bpt>PlayReady<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/powerapps/"&gt;</bpt>PowerApps<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/power-bi/"&gt;</bpt>Power BI<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/power-query/"&gt;</bpt>Power Query<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/powershell/"&gt;</bpt>PowerShell<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/project/"&gt;</bpt>Project<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/sharepoint/"&gt;</bpt>SharePoint<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/skypeforbusiness/"&gt;</bpt>Skype for Business<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/sql/"&gt;</bpt>SQL Server<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/system-center/"&gt;</bpt>System Center<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/sccm/"&gt;</bpt>System Center Configuration Manager<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/virtualization/"&gt;</bpt>Virtualization<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/dotnet/visual-basic/"&gt;</bpt>Visual Basic<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/visualstudio/products/"&gt;</bpt>Visual Studio<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/visualstudio/"&gt;</bpt>Visual Studio IDE<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/windows/"&gt;</bpt>Windows<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/xamarin/"&gt;</bpt>Xamarin<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">
+                    &lt;a class="barLink" href="/yammer/"&gt;</bpt>Yammer<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
+                </ph></source>
+        </trans-unit></group></body></file></xliff>
